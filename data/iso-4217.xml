@@ -1,0 +1,1341 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<currencies>
+  <currency>
+    <code>AED</code>
+    <numeric>784</numeric>
+    <precision>2</precision>
+    <name language="en">United Arab Emirates dirham</name>
+    <location language="en">United Arab Emirates</location>
+  </currency>
+  <currency>
+    <code>AFN</code>
+    <numeric>971</numeric>
+    <precision>2</precision>
+    <name language="en">Afghan afghani</name>
+    <location language="en">Afghanistan</location>
+  </currency>
+  <currency>
+    <code>ALL</code>
+    <numeric>008</numeric>
+    <precision>2</precision>
+    <name language="en">Albanian lek</name>
+    <location language="en">Albania</location>
+  </currency>
+  <currency>
+    <code>AMD</code>
+    <numeric>051</numeric>
+    <precision>2</precision>
+    <name language="en">Armenian dram</name>
+    <location language="en">Armenia</location>
+  </currency>
+  <currency>
+    <code>ANG</code>
+    <numeric>532</numeric>
+    <precision>2</precision>
+    <name language="en">Netherlands Antillean guilder</name>
+    <location language="en">Curaçao</location>
+    <location language="en">Sint Maarten</location>
+  </currency>
+  <currency>
+    <code>AOA</code>
+    <numeric>973</numeric>
+    <precision>2</precision>
+    <name language="en">Angolan kwanza</name>
+    <location language="en">Angola</location>
+  </currency>
+  <currency>
+    <code>ARS</code>
+    <numeric>032</numeric>
+    <precision>2</precision>
+    <name language="en">Argentine peso</name>
+    <location language="en">Argentina</location>
+  </currency>
+  <currency>
+    <code>AUD</code>
+    <numeric>036</numeric>
+    <precision>2</precision>
+    <name language="en">Australian dollar</name>
+    <location language="en">Australia</location>
+    <location language="en">Australian Antarctic Territory</location>
+    <location language="en">Christmas Island</location>
+    <location language="en">Cocos (Keeling) Islands</location>
+    <location language="en">Heard and McDonald Islands</location>
+    <location language="en">Kiribati</location>
+    <location language="en">Nauru</location>
+    <location language="en">Norfolk Island</location>
+    <location language="en">Tuvalu</location>
+  </currency>
+  <currency>
+    <code>AWG</code>
+    <numeric>533</numeric>
+    <precision>2</precision>
+    <name language="en">Aruban florin</name>
+    <location language="en">Aruba</location>
+  </currency>
+  <currency>
+    <code>AZN</code>
+    <numeric>944</numeric>
+    <precision>2</precision>
+    <name language="en">Azerbaijani manat</name>
+    <location language="en">Azerbaijan</location>
+  </currency>
+  <currency>
+    <code>BAM</code>
+    <numeric>977</numeric>
+    <precision>2</precision>
+    <name language="en">Bosnia and Herzegovina convertible mark</name>
+    <location language="en">Bosnia and Herzegovina</location>
+  </currency>
+  <currency>
+    <code>BBD</code>
+    <numeric>052</numeric>
+    <precision>2</precision>
+    <name language="en">Barbados dollar</name>
+    <location language="en">Barbados</location>
+  </currency>
+  <currency>
+    <code>BDT</code>
+    <numeric>050</numeric>
+    <precision>2</precision>
+    <name language="en">Bangladeshi taka</name>
+    <location language="en">Bangladesh</location>
+  </currency>
+  <currency>
+    <code>BGN</code>
+    <numeric>975</numeric>
+    <precision>2</precision>
+    <name language="en">Bulgarian lev</name>
+    <location language="en">Bulgaria</location>
+  </currency>
+  <currency>
+    <code>BHD</code>
+    <numeric>048</numeric>
+    <precision>3</precision>
+    <name language="en">Bahraini dinar</name>
+    <location language="en">Bahrain</location>
+  </currency>
+  <currency>
+    <code>BIF</code>
+    <numeric>108</numeric>
+    <precision>0</precision>
+    <name language="en">Burundian franc</name>
+    <location language="en">Burundi</location>
+  </currency>
+  <currency>
+    <code>BMD</code>
+    <numeric>060</numeric>
+    <precision>2</precision>
+    <name language="en">Bermudian dollar (customarily known as Bermuda dollar)</name>
+    <location language="en">Bermuda</location>
+  </currency>
+  <currency>
+    <code>BND</code>
+    <numeric>096</numeric>
+    <precision>2</precision>
+    <name language="en">Brunei dollar</name>
+    <location language="en">Brunei</location>
+    <location language="en">Singapore</location>
+  </currency>
+  <currency>
+    <code>BOB</code>
+    <numeric>068</numeric>
+    <precision>2</precision>
+    <name language="en">Boliviano</name>
+    <location language="en">Bolivia</location>
+  </currency>
+  <currency>
+    <code>BOV</code>
+    <numeric>984</numeric>
+    <precision>2</precision>
+    <name language="en">Bolivian Mvdol (funds code)</name>
+    <location language="en">Bolivia</location>
+  </currency>
+  <currency>
+    <code>BRL</code>
+    <numeric>986</numeric>
+    <precision>2</precision>
+    <name language="en">Brazilian real</name>
+    <location language="en">Brazil</location>
+  </currency>
+  <currency>
+    <code>BSD</code>
+    <numeric>044</numeric>
+    <precision>2</precision>
+    <name language="en">Bahamian dollar</name>
+    <location language="en">Bahamas</location>
+  </currency>
+  <currency>
+    <code>BTN</code>
+    <numeric>064</numeric>
+    <precision>2</precision>
+    <name language="en">Bhutanese ngultrum</name>
+    <location language="en">Bhutan</location>
+  </currency>
+  <currency>
+    <code>BWP</code>
+    <numeric>072</numeric>
+    <precision>2</precision>
+    <name language="en">Botswana pula</name>
+    <location language="en">Botswana</location>
+  </currency>
+  <currency>
+    <code>BYR</code>
+    <numeric>974</numeric>
+    <precision>0</precision>
+    <name language="en">Belarusian ruble</name>
+    <location language="en">Belarus</location>
+  </currency>
+  <currency>
+    <code>BZD</code>
+    <numeric>084</numeric>
+    <precision>2</precision>
+    <name language="en">Belize dollar</name>
+    <location language="en">Belize</location>
+  </currency>
+  <currency>
+    <code>CAD</code>
+    <numeric>124</numeric>
+    <precision>2</precision>
+    <name language="en">Canadian dollar</name>
+    <location language="en">Canada</location>
+  </currency>
+  <currency>
+    <code>CDF</code>
+    <numeric>976</numeric>
+    <precision>2</precision>
+    <name language="en">Congolese franc</name>
+    <location language="en">Democratic Republic of Congo</location>
+  </currency>
+  <currency>
+    <code>CHE</code>
+    <numeric>947</numeric>
+    <precision>2</precision>
+    <name language="en">WIR Euro (complementary currency)</name>
+    <location language="en">Switzerland</location>
+  </currency>
+  <currency>
+    <code>CHF</code>
+    <numeric>756</numeric>
+    <precision>2</precision>
+    <name language="en">Swiss franc</name>
+    <location language="en">Switzerland</location>
+    <location language="en">Liechtenstein</location>
+  </currency>
+  <currency>
+    <code>CHW</code>
+    <numeric>948</numeric>
+    <precision>2</precision>
+    <name language="en">WIR Franc (complementary currency)</name>
+    <location language="en">Switzerland</location>
+  </currency>
+  <currency>
+    <code>CLF</code>
+    <numeric>990</numeric>
+    <precision>0</precision>
+    <name language="en">Unidad de Fomento (funds code)</name>
+    <location language="en">Chile</location>
+  </currency>
+  <currency>
+    <code>CLP</code>
+    <numeric>152</numeric>
+    <precision>0</precision>
+    <name language="en">Chilean peso</name>
+    <location language="en">Chile</location>
+  </currency>
+  <currency>
+    <code>CNY</code>
+    <numeric>156</numeric>
+    <precision>2</precision>
+    <name language="en">Chinese yuan</name>
+    <location language="en">China</location>
+  </currency>
+  <currency>
+    <code>COP</code>
+    <numeric>170</numeric>
+    <precision>2</precision>
+    <name language="en">Colombian peso</name>
+    <location language="en">Colombia</location>
+  </currency>
+  <currency>
+    <code>COU</code>
+    <numeric>970</numeric>
+    <precision>2</precision>
+    <name language="en">Unidad de Valor Real</name>
+    <location language="en">Colombia</location>
+  </currency>
+  <currency>
+    <code>CRC</code>
+    <numeric>188</numeric>
+    <precision>2</precision>
+    <name language="en">Costa Rican colon</name>
+    <location language="en">Costa Rica</location>
+  </currency>
+  <currency>
+    <code>CUC</code>
+    <numeric>931</numeric>
+    <precision>2</precision>
+    <name language="en">Cuban convertible peso</name>
+    <location language="en">Cuba</location>
+  </currency>
+  <currency>
+    <code>CUP</code>
+    <numeric>192</numeric>
+    <precision>2</precision>
+    <name language="en">Cuban peso</name>
+    <location language="en">Cuba</location>
+  </currency>
+  <currency>
+    <code>CVE</code>
+    <numeric>132</numeric>
+    <precision>0</precision>
+    <name language="en">Cape Verde escudo</name>
+    <location language="en">Cape Verde</location>
+  </currency>
+  <currency>
+    <code>CZK</code>
+    <numeric>203</numeric>
+    <precision>2</precision>
+    <name language="en">Czech koruna</name>
+    <location language="en">Czech Republic</location>
+  </currency>
+  <currency>
+    <code>DJF</code>
+    <numeric>262</numeric>
+    <precision>0</precision>
+    <name language="en">Djiboutian franc</name>
+    <location language="en">Djibouti</location>
+  </currency>
+  <currency>
+    <code>DKK</code>
+    <numeric>208</numeric>
+    <precision>2</precision>
+    <name language="en">Danish krone</name>
+    <location language="en">Denmark</location>
+    <location language="en">Faroe Islands</location>
+    <location language="en">Greenland</location>
+  </currency>
+  <currency>
+    <code>DOP</code>
+    <numeric>214</numeric>
+    <precision>2</precision>
+    <name language="en">Dominican peso</name>
+    <location language="en">Dominican Republic</location>
+  </currency>
+  <currency>
+    <code>DZD</code>
+    <numeric>012</numeric>
+    <precision>2</precision>
+    <name language="en">Algerian dinar</name>
+    <location language="en">Algeria</location>
+  </currency>
+  <currency>
+    <code>EGP</code>
+    <numeric>818</numeric>
+    <precision>2</precision>
+    <name language="en">Egyptian pound</name>
+    <location language="en">Egypt</location>
+  </currency>
+  <currency>
+    <code>ERN</code>
+    <numeric>232</numeric>
+    <precision>2</precision>
+    <name language="en">Eritrean nakfa</name>
+    <location language="en">Eritrea</location>
+  </currency>
+  <currency>
+    <code>ETB</code>
+    <numeric>230</numeric>
+    <precision>2</precision>
+    <name language="en">Ethiopian birr</name>
+    <location language="en">Ethiopia</location>
+  </currency>
+  <currency>
+    <code>EUR</code>
+    <numeric>978</numeric>
+    <precision>2</precision>
+    <name language="en">Euro</name>
+    <location language="en">Andorra</location>
+    <location language="en">Austria</location>
+    <location language="en">Belgium</location>
+    <location language="en">Cyprus</location>
+    <location language="en">Estonia</location>
+    <location language="en">Finland</location>
+    <location language="en">France</location>
+    <location language="en">Germany</location>
+    <location language="en">Greece</location>
+    <location language="en">Ireland</location>
+    <location language="en">Italy</location>
+    <location language="en">Kosovo</location>
+    <location language="en">Luxembourg</location>
+    <location language="en">Malta</location>
+    <location language="en">Monaco</location>
+    <location language="en">Montenegro</location>
+    <location language="en">Netherlands</location>
+    <location language="en">Portugal</location>
+    <location language="en">San Marino</location>
+    <location language="en">Slovakia</location>
+    <location language="en">Slovenia</location>
+    <location language="en">Spain</location>
+    <location language="en">Vatican City</location>
+  </currency>
+  <currency>
+    <code>FJD</code>
+    <numeric>242</numeric>
+    <precision>2</precision>
+    <name language="en">Fiji dollar</name>
+    <location language="en">Fiji</location>
+  </currency>
+  <currency>
+    <code>FKP</code>
+    <numeric>238</numeric>
+    <precision>2</precision>
+    <name language="en">Falkland Islands pound</name>
+    <location language="en">Falkland Islands</location>
+  </currency>
+  <currency>
+    <code>GBP</code>
+    <numeric>826</numeric>
+    <precision>2</precision>
+    <name language="en">Pound sterling</name>
+    <location language="en">United Kingdom</location>
+    <location language="en">British Crown dependencies</location>
+    <location language="en">Isle of Man</location>
+    <location language="en">Channel Islands</location>
+    <location language="en">British Overseas Territories</location>
+    <location language="en">South Georgia and the South Sandwich Islands</location>
+    <location language="en">British Antarctic Territory</location>
+    <location language="en">British Indian Ocean Territory</location>
+  </currency>
+  <currency>
+    <code>GEL</code>
+    <numeric>981</numeric>
+    <precision>2</precision>
+    <name language="en">Georgian lari</name>
+    <location language="en">Georgia (country)</location>
+  </currency>
+  <currency>
+    <code>GHS</code>
+    <numeric>936</numeric>
+    <precision>2</precision>
+    <name language="en">Ghanaian cedi</name>
+    <location language="en">Ghana</location>
+  </currency>
+  <currency>
+    <code>GIP</code>
+    <numeric>292</numeric>
+    <precision>2</precision>
+    <name language="en">Gibraltar pound</name>
+    <location language="en">Gibraltar</location>
+  </currency>
+  <currency>
+    <code>GMD</code>
+    <numeric>270</numeric>
+    <precision>2</precision>
+    <name language="en">Gambian dalasi</name>
+    <location language="en">Gambia</location>
+  </currency>
+  <currency>
+    <code>GNF</code>
+    <numeric>324</numeric>
+    <precision>0</precision>
+    <name language="en">Guinean franc</name>
+    <location language="en">Guinea</location>
+  </currency>
+  <currency>
+    <code>GTQ</code>
+    <numeric>320</numeric>
+    <precision>2</precision>
+    <name language="en">Guatemalan quetzal</name>
+    <location language="en">Guatemala</location>
+  </currency>
+  <currency>
+    <code>GYD</code>
+    <numeric>328</numeric>
+    <precision>2</precision>
+    <name language="en">Guyanese dollar</name>
+    <location language="en">Guyana</location>
+  </currency>
+  <currency>
+    <code>HKD</code>
+    <numeric>344</numeric>
+    <precision>2</precision>
+    <name language="en">Hong Kong dollar</name>
+    <location language="en">Hong Kong</location>
+    <location language="en">Macao</location>
+  </currency>
+  <currency>
+    <code>HNL</code>
+    <numeric>340</numeric>
+    <precision>2</precision>
+    <name language="en">Honduran lempira</name>
+    <location language="en">Honduras</location>
+  </currency>
+  <currency>
+    <code>HRK</code>
+    <numeric>191</numeric>
+    <precision>2</precision>
+    <name language="en">Croatian kuna</name>
+    <location language="en">Croatia</location>
+  </currency>
+  <currency>
+    <code>HTG</code>
+    <numeric>332</numeric>
+    <precision>2</precision>
+    <name language="en">Haitian gourde</name>
+    <location language="en">Haiti</location>
+  </currency>
+  <currency>
+    <code>HUF</code>
+    <numeric>348</numeric>
+    <precision>2</precision>
+    <name language="en">Hungarian forint</name>
+    <location language="en">Hungary</location>
+  </currency>
+  <currency>
+    <code>IDR</code>
+    <numeric>360</numeric>
+    <precision>2</precision>
+    <name language="en">Indonesian rupiah</name>
+    <location language="en">Indonesia</location>
+  </currency>
+  <currency>
+    <code>ILS</code>
+    <numeric>376</numeric>
+    <precision>2</precision>
+    <name language="en">Israeli new shekel</name>
+    <location language="en">Israel</location>
+    <location language="en">Palestinian territories</location>
+  </currency>
+  <currency>
+    <code>INR</code>
+    <numeric>356</numeric>
+    <precision>2</precision>
+    <name language="en">Indian rupee</name>
+    <location language="en">India</location>
+  </currency>
+  <currency>
+    <code>IQD</code>
+    <numeric>368</numeric>
+    <precision>3</precision>
+    <name language="en">Iraqi dinar</name>
+    <location language="en">Iraq</location>
+  </currency>
+  <currency>
+    <code>IRR</code>
+    <numeric>364</numeric>
+    <precision>0</precision>
+    <name language="en">Iranian rial</name>
+    <location language="en">Iran</location>
+  </currency>
+  <currency>
+    <code>ISK</code>
+    <numeric>352</numeric>
+    <precision>0</precision>
+    <name language="en">Icelandic króna</name>
+    <location language="en">Iceland</location>
+  </currency>
+  <currency>
+    <code>JMD</code>
+    <numeric>388</numeric>
+    <precision>2</precision>
+    <name language="en">Jamaican dollar</name>
+    <location language="en">Jamaica</location>
+  </currency>
+  <currency>
+    <code>JOD</code>
+    <numeric>400</numeric>
+    <precision>3</precision>
+    <name language="en">Jordanian dinar</name>
+    <location language="en">Jordan</location>
+  </currency>
+  <currency>
+    <code>JPY</code>
+    <numeric>392</numeric>
+    <precision>0</precision>
+    <name language="en">Japanese yen</name>
+    <location language="en">Japan</location>
+  </currency>
+  <currency>
+    <code>KES</code>
+    <numeric>404</numeric>
+    <precision>2</precision>
+    <name language="en">Kenyan shilling</name>
+    <location language="en">Kenya</location>
+  </currency>
+  <currency>
+    <code>KGS</code>
+    <numeric>417</numeric>
+    <precision>2</precision>
+    <name language="en">Kyrgyzstani som</name>
+    <location language="en">Kyrgyzstan</location>
+  </currency>
+  <currency>
+    <code>KHR</code>
+    <numeric>116</numeric>
+    <precision>2</precision>
+    <name language="en">Cambodian riel</name>
+    <location language="en">Cambodia</location>
+  </currency>
+  <currency>
+    <code>KMF</code>
+    <numeric>174</numeric>
+    <precision>0</precision>
+    <name language="en">Comoro franc</name>
+    <location language="en">Comoros</location>
+  </currency>
+  <currency>
+    <code>KPW</code>
+    <numeric>408</numeric>
+    <precision>0</precision>
+    <name language="en">North Korean won</name>
+    <location language="en">North Korea</location>
+  </currency>
+  <currency>
+    <code>KRW</code>
+    <numeric>410</numeric>
+    <precision>0</precision>
+    <name language="en">South Korean won</name>
+    <location language="en">South Korea</location>
+  </currency>
+  <currency>
+    <code>KWD</code>
+    <numeric>414</numeric>
+    <precision>3</precision>
+    <name language="en">Kuwaiti dinar</name>
+    <location language="en">Kuwait</location>
+  </currency>
+  <currency>
+    <code>KYD</code>
+    <numeric>136</numeric>
+    <precision>2</precision>
+    <name language="en">Cayman Islands dollar</name>
+    <location language="en">Cayman Islands</location>
+  </currency>
+  <currency>
+    <code>KZT</code>
+    <numeric>398</numeric>
+    <precision>2</precision>
+    <name language="en">Kazakhstani tenge</name>
+    <location language="en">Kazakhstan</location>
+  </currency>
+  <currency>
+    <code>LAK</code>
+    <numeric>418</numeric>
+    <precision>0</precision>
+    <name language="en">Lao kip</name>
+    <location language="en">Laos</location>
+  </currency>
+  <currency>
+    <code>LBP</code>
+    <numeric>422</numeric>
+    <precision>0</precision>
+    <name language="en">Lebanese pound</name>
+    <location language="en">Lebanon</location>
+  </currency>
+  <currency>
+    <code>LKR</code>
+    <numeric>144</numeric>
+    <precision>2</precision>
+    <name language="en">Sri Lankan rupee</name>
+    <location language="en">Sri Lanka</location>
+  </currency>
+  <currency>
+    <code>LRD</code>
+    <numeric>430</numeric>
+    <precision>2</precision>
+    <name language="en">Liberian dollar</name>
+    <location language="en">Liberia</location>
+  </currency>
+  <currency>
+    <code>LSL</code>
+    <numeric>426</numeric>
+    <precision>2</precision>
+    <name language="en">Lesotho loti</name>
+    <location language="en">Lesotho</location>
+  </currency>
+  <currency>
+    <code>LTL</code>
+    <numeric>440</numeric>
+    <precision>2</precision>
+    <name language="en">Lithuanian litas</name>
+    <location language="en">Lithuania</location>
+  </currency>
+  <currency>
+    <code>LVL</code>
+    <numeric>428</numeric>
+    <precision>2</precision>
+    <name language="en">Latvian lats</name>
+    <location language="en">Latvia</location>
+  </currency>
+  <currency>
+    <code>LYD</code>
+    <numeric>434</numeric>
+    <precision>3</precision>
+    <name language="en">Libyan dinar</name>
+    <location language="en">Libya</location>
+  </currency>
+  <currency>
+    <code>MAD</code>
+    <numeric>504</numeric>
+    <precision>2</precision>
+    <name language="en">Moroccan dirham</name>
+    <location language="en">Morocco</location>
+  </currency>
+  <currency>
+    <code>MDL</code>
+    <numeric>498</numeric>
+    <precision>2</precision>
+    <name language="en">Moldovan leu</name>
+    <location language="en">Moldova</location>
+    <location language="en">Transnistria</location>
+  </currency>
+  <currency>
+    <code>MGA</code>
+    <numeric>969</numeric>
+    <precision>0.7[8]</precision>
+    <name language="en">Malagasy ariary</name>
+    <location language="en">Madagascar</location>
+  </currency>
+  <currency>
+    <code>MKD</code>
+    <numeric>807</numeric>
+    <precision>0</precision>
+    <name language="en">Macedonian denar</name>
+    <location language="en">Macedonia</location>
+  </currency>
+  <currency>
+    <code>MMK</code>
+    <numeric>104</numeric>
+    <precision>0</precision>
+    <name language="en">Myanma kyat</name>
+    <location language="en">Myanmar</location>
+  </currency>
+  <currency>
+    <code>MNT</code>
+    <numeric>496</numeric>
+    <precision>2</precision>
+    <name language="en">Mongolian tugrik</name>
+    <location language="en">Mongolia</location>
+  </currency>
+  <currency>
+    <code>MOP</code>
+    <numeric>446</numeric>
+    <precision>2</precision>
+    <name language="en">Macanese pataca</name>
+    <location language="en">Macao</location>
+  </currency>
+  <currency>
+    <code>MRO</code>
+    <numeric>478</numeric>
+    <precision>0.7[8]</precision>
+    <name language="en">Mauritanian ouguiya</name>
+    <location language="en">Mauritania</location>
+  </currency>
+  <currency>
+    <code>MUR</code>
+    <numeric>480</numeric>
+    <precision>2</precision>
+    <name language="en">Mauritian rupee</name>
+    <location language="en">Mauritius</location>
+  </currency>
+  <currency>
+    <code>MVR</code>
+    <numeric>462</numeric>
+    <precision>2</precision>
+    <name language="en">Maldivian rufiyaa</name>
+    <location language="en">Maldives</location>
+  </currency>
+  <currency>
+    <code>MWK</code>
+    <numeric>454</numeric>
+    <precision>2</precision>
+    <name language="en">Malawian kwacha</name>
+    <location language="en">Malawi</location>
+  </currency>
+  <currency>
+    <code>MXN</code>
+    <numeric>484</numeric>
+    <precision>2</precision>
+    <name language="en">Mexican peso</name>
+    <location language="en">Mexico</location>
+  </currency>
+  <currency>
+    <code>MXV</code>
+    <numeric>979</numeric>
+    <precision>2</precision>
+    <name language="en">Mexican Unidad de Inversion (UDI) (funds code)</name>
+    <location language="en">Mexico</location>
+  </currency>
+  <currency>
+    <code>MYR</code>
+    <numeric>458</numeric>
+    <precision>2</precision>
+    <name language="en">Malaysian ringgit</name>
+    <location language="en">Malaysia</location>
+  </currency>
+  <currency>
+    <code>MZN</code>
+    <numeric>943</numeric>
+    <precision>2</precision>
+    <name language="en">Mozambican metical</name>
+    <location language="en">Mozambique</location>
+  </currency>
+  <currency>
+    <code>NAD</code>
+    <numeric>516</numeric>
+    <precision>2</precision>
+    <name language="en">Namibian dollar</name>
+    <location language="en">Namibia</location>
+  </currency>
+  <currency>
+    <code>NGN</code>
+    <numeric>566</numeric>
+    <precision>2</precision>
+    <name language="en">Nigerian naira</name>
+    <location language="en">Nigeria</location>
+  </currency>
+  <currency>
+    <code>NIO</code>
+    <numeric>558</numeric>
+    <precision>2</precision>
+    <name language="en">Nicaraguan córdoba</name>
+    <location language="en">Nicaragua</location>
+  </currency>
+  <currency>
+    <code>NOK</code>
+    <numeric>578</numeric>
+    <precision>2</precision>
+    <name language="en">Norwegian krone</name>
+    <location language="en">Norway</location>
+    <location language="en">Svalbard</location>
+    <location language="en">Jan Mayen</location>
+    <location language="en">Bouvet Island</location>
+    <location language="en">Queen Maud Land</location>
+    <location language="en">Peter I Island</location>
+  </currency>
+  <currency>
+    <code>NPR</code>
+    <numeric>524</numeric>
+    <precision>2</precision>
+    <name language="en">Nepalese rupee</name>
+    <location language="en">Nepal</location>
+  </currency>
+  <currency>
+    <code>NZD</code>
+    <numeric>554</numeric>
+    <precision>2</precision>
+    <name language="en">New Zealand dollar</name>
+    <location language="en">Cook Islands</location>
+    <location language="en">New Zealand</location>
+    <location language="en">Niue</location>
+    <location language="en">Pitcairn</location>
+    <location language="en">Tokelau</location>
+    <location language="en">Ross Dependency</location>
+  </currency>
+  <currency>
+    <code>OMR</code>
+    <numeric>512</numeric>
+    <precision>3</precision>
+    <name language="en">Omani rial</name>
+    <location language="en">Oman</location>
+  </currency>
+  <currency>
+    <code>PAB</code>
+    <numeric>590</numeric>
+    <precision>2</precision>
+    <name language="en">Panamanian balboa</name>
+    <location language="en">Panama</location>
+  </currency>
+  <currency>
+    <code>PEN</code>
+    <numeric>604</numeric>
+    <precision>2</precision>
+    <name language="en">Peruvian nuevo sol</name>
+    <location language="en">Peru</location>
+  </currency>
+  <currency>
+    <code>PGK</code>
+    <numeric>598</numeric>
+    <precision>2</precision>
+    <name language="en">Papua New Guinean kina</name>
+    <location language="en">Papua New Guinea</location>
+  </currency>
+  <currency>
+    <code>PHP</code>
+    <numeric>608</numeric>
+    <precision>2</precision>
+    <name language="en">Philippine peso</name>
+    <location language="en">Philippines</location>
+  </currency>
+  <currency>
+    <code>PKR</code>
+    <numeric>586</numeric>
+    <precision>2</precision>
+    <name language="en">Pakistani rupee</name>
+    <location language="en">Pakistan</location>
+  </currency>
+  <currency>
+    <code>PLN</code>
+    <numeric>985</numeric>
+    <precision>2</precision>
+    <name language="en">Polish złoty</name>
+    <location language="en">Poland</location>
+  </currency>
+  <currency>
+    <code>PYG</code>
+    <numeric>600</numeric>
+    <precision>0</precision>
+    <name language="en">Paraguayan guaraní</name>
+    <location language="en">Paraguay</location>
+  </currency>
+  <currency>
+    <code>QAR</code>
+    <numeric>634</numeric>
+    <precision>2</precision>
+    <name language="en">Qatari riyal</name>
+    <location language="en">Qatar</location>
+  </currency>
+  <currency>
+    <code>RON</code>
+    <numeric>946</numeric>
+    <precision>2</precision>
+    <name language="en">Romanian new leu</name>
+    <location language="en">Romania</location>
+  </currency>
+  <currency>
+    <code>RSD</code>
+    <numeric>941</numeric>
+    <precision>2</precision>
+    <name language="en">Serbian dinar</name>
+    <location language="en">Serbia</location>
+  </currency>
+  <currency>
+    <code>RUB</code>
+    <numeric>643</numeric>
+    <precision>2</precision>
+    <name language="en">Russian rouble</name>
+    <location language="en">Russia</location>
+    <location language="en">Abkhazia</location>
+    <location language="en">South Ossetia</location>
+  </currency>
+  <currency>
+    <code>RWF</code>
+    <numeric>646</numeric>
+    <precision>0</precision>
+    <name language="en">Rwandan franc</name>
+    <location language="en">Rwanda</location>
+  </currency>
+  <currency>
+    <code>SAR</code>
+    <numeric>682</numeric>
+    <precision>2</precision>
+    <name language="en">Saudi riyal</name>
+    <location language="en">Saudi Arabia</location>
+  </currency>
+  <currency>
+    <code>SBD</code>
+    <numeric>090</numeric>
+    <precision>2</precision>
+    <name language="en">Solomon Islands dollar</name>
+    <location language="en">Solomon Islands</location>
+  </currency>
+  <currency>
+    <code>SCR</code>
+    <numeric>690</numeric>
+    <precision>2</precision>
+    <name language="en">Seychelles rupee</name>
+    <location language="en">Seychelles</location>
+  </currency>
+  <currency>
+    <code>SDG</code>
+    <numeric>938</numeric>
+    <precision>2</precision>
+    <name language="en">Sudanese pound</name>
+    <location language="en">Sudan</location>
+  </currency>
+  <currency>
+    <code>SEK</code>
+    <numeric>752</numeric>
+    <precision>2</precision>
+    <name language="en">Swedish krona/kronor</name>
+    <location language="en">Sweden</location>
+  </currency>
+  <currency>
+    <code>SGD</code>
+    <numeric>702</numeric>
+    <precision>2</precision>
+    <name language="en">Singapore dollar</name>
+    <location language="en">Singapore</location>
+    <location language="en">Brunei</location>
+  </currency>
+  <currency>
+    <code>SHP</code>
+    <numeric>654</numeric>
+    <precision>2</precision>
+    <name language="en">Saint Helena pound</name>
+    <location language="en">Saint Helena</location>
+  </currency>
+  <currency>
+    <code>SLL</code>
+    <numeric>694</numeric>
+    <precision>0</precision>
+    <name language="en">Sierra Leonean leone</name>
+    <location language="en">Sierra Leone</location>
+  </currency>
+  <currency>
+    <code>SOS</code>
+    <numeric>706</numeric>
+    <precision>2</precision>
+    <name language="en">Somali shilling</name>
+    <location language="en">Somalia</location>
+    <location language="en">Somaliland</location>
+  </currency>
+  <currency>
+    <code>SRD</code>
+    <numeric>968</numeric>
+    <precision>2</precision>
+    <name language="en">Surinamese dollar</name>
+    <location language="en">Suriname</location>
+  </currency>
+  <currency>
+    <code>SSP</code>
+    <numeric>728</numeric>
+    <precision>2</precision>
+    <name language="en">South Sudanese pound</name>
+    <location language="en">South Sudan</location>
+  </currency>
+  <currency>
+    <code>STD</code>
+    <numeric>678</numeric>
+    <precision>0</precision>
+    <name language="en">São Tomé and Príncipe dobra</name>
+    <location language="en">São Tomé and Príncipe</location>
+  </currency>
+  <currency>
+    <code>SYP</code>
+    <numeric>760</numeric>
+    <precision>2</precision>
+    <name language="en">Syrian pound</name>
+    <location language="en">Syria</location>
+  </currency>
+  <currency>
+    <code>SZL</code>
+    <numeric>748</numeric>
+    <precision>2</precision>
+    <name language="en">Swazi lilangeni</name>
+    <location language="en">Swaziland</location>
+  </currency>
+  <currency>
+    <code>THB</code>
+    <numeric>764</numeric>
+    <precision>2</precision>
+    <name language="en">Thai baht</name>
+    <location language="en">Thailand</location>
+  </currency>
+  <currency>
+    <code>TJS</code>
+    <numeric>972</numeric>
+    <precision>2</precision>
+    <name language="en">Tajikistani somoni</name>
+    <location language="en">Tajikistan</location>
+  </currency>
+  <currency>
+    <code>TMT</code>
+    <numeric>934</numeric>
+    <precision>2</precision>
+    <name language="en">Turkmenistani manat</name>
+    <location language="en">Turkmenistan</location>
+  </currency>
+  <currency>
+    <code>TND</code>
+    <numeric>788</numeric>
+    <precision>3</precision>
+    <name language="en">Tunisian dinar</name>
+    <location language="en">Tunisia</location>
+  </currency>
+  <currency>
+    <code>TOP</code>
+    <numeric>776</numeric>
+    <precision>2</precision>
+    <name language="en">Tongan paʻanga</name>
+    <location language="en">Tonga</location>
+  </currency>
+  <currency>
+    <code>TRY</code>
+    <numeric>949</numeric>
+    <precision>2</precision>
+    <name language="en">Turkish lira</name>
+    <location language="en">Turkey</location>
+  </currency>
+  <currency>
+    <code>TTD</code>
+    <numeric>780</numeric>
+    <precision>2</precision>
+    <name language="en">Trinidad and Tobago dollar</name>
+    <location language="en">Trinidad and Tobago</location>
+  </currency>
+  <currency>
+    <code>TWD</code>
+    <numeric>901</numeric>
+    <precision>2</precision>
+    <name language="en">New Taiwan dollar</name>
+    <location language="en">Taiwan</location>
+  </currency>
+  <currency>
+    <code>TZS</code>
+    <numeric>834</numeric>
+    <precision>2</precision>
+    <name language="en">Tanzanian shilling</name>
+    <location language="en">Tanzania</location>
+  </currency>
+  <currency>
+    <code>UAH</code>
+    <numeric>980</numeric>
+    <precision>2</precision>
+    <name language="en">Ukrainian hryvnia</name>
+    <location language="en">Ukraine</location>
+  </currency>
+  <currency>
+    <code>UGX</code>
+    <numeric>800</numeric>
+    <precision>2</precision>
+    <name language="en">Ugandan shilling</name>
+    <location language="en">Uganda</location>
+  </currency>
+  <currency>
+    <code>USD</code>
+    <numeric>840</numeric>
+    <precision>2</precision>
+    <name language="en">United States dollar</name>
+    <location language="en">American Samoa</location>
+    <location language="en">Barbados</location>
+    <location language="en">Barbados Dollar</location>
+    <location language="en">Bermuda</location>
+    <location language="en">Bermudian Dollar</location>
+    <location language="en">British Indian Ocean Territory</location>
+    <location language="en">British Virgin Islands</location>
+    <location language="en">Caribbean Netherlands</location>
+    <location language="en">Ecuador</location>
+    <location language="en">El Salvador</location>
+    <location language="en">Guam</location>
+    <location language="en">Haiti</location>
+    <location language="en">Marshall Islands</location>
+    <location language="en">Federated States of Micronesia</location>
+    <location language="en">Northern Mariana Islands</location>
+    <location language="en">Palau</location>
+    <location language="en">Panama</location>
+    <location language="en">Puerto Rico</location>
+    <location language="en">Timor-Leste</location>
+    <location language="en">Turks and Caicos Islands</location>
+    <location language="en">United States</location>
+    <location language="en">U.S. Virgin Islands</location>
+    <location language="en">Zimbabwe</location>
+  </currency>
+  <currency>
+    <code>USN</code>
+    <numeric>997</numeric>
+    <precision>2</precision>
+    <name language="en">United States dollar (next day) (funds code)</name>
+    <location language="en">United States</location>
+  </currency>
+  <currency>
+    <code>USS</code>
+    <numeric>998</numeric>
+    <precision>2</precision>
+    <name language="en">United States dollar (same day) (funds code) (one source[who?] claims it is no longer used, but it is still on the ISO 4217-MA list)</name>
+    <location language="en">United States</location>
+  </currency>
+  <currency>
+    <code>UYI</code>
+    <numeric>940</numeric>
+    <precision>0</precision>
+    <name language="en">Uruguay Peso en Unidades Indexadas (URUIURUI) (funds code)</name>
+    <location language="en">Uruguay</location>
+  </currency>
+  <currency>
+    <code>UYU</code>
+    <numeric>858</numeric>
+    <precision>2</precision>
+    <name language="en">Uruguayan peso</name>
+    <location language="en">Uruguay</location>
+  </currency>
+  <currency>
+    <code>UZS</code>
+    <numeric>860</numeric>
+    <precision>2</precision>
+    <name language="en">Uzbekistan som</name>
+    <location language="en">Uzbekistan</location>
+  </currency>
+  <currency>
+    <code>VEF</code>
+    <numeric>937</numeric>
+    <precision>2</precision>
+    <name language="en">Venezuelan bolívar fuerte</name>
+    <location language="en">Venezuela</location>
+  </currency>
+  <currency>
+    <code>VND</code>
+    <numeric>704</numeric>
+    <precision>0</precision>
+    <name language="en">Vietnamese dong</name>
+    <location language="en">Vietnam</location>
+  </currency>
+  <currency>
+    <code>VUV</code>
+    <numeric>548</numeric>
+    <precision>0</precision>
+    <name language="en">Vanuatu vatu</name>
+    <location language="en">Vanuatu</location>
+  </currency>
+  <currency>
+    <code>WST</code>
+    <numeric>882</numeric>
+    <precision>2</precision>
+    <name language="en">Samoan tala</name>
+    <location language="en">Samoa</location>
+  </currency>
+  <currency>
+    <code>XAF</code>
+    <numeric>950</numeric>
+    <precision>0</precision>
+    <name language="en">CFA franc BEAC</name>
+    <location language="en">Cameroon</location>
+    <location language="en">Central African Republic</location>
+    <location language="en">Republic of the Congo</location>
+    <location language="en">Chad</location>
+    <location language="en">Equatorial Guinea</location>
+    <location language="en">Gabon</location>
+  </currency>
+  <currency>
+    <code>XAG</code>
+    <numeric>961</numeric>
+    <precision>.</precision>
+    <name language="en">Silver (one troy ounce)</name>
+  </currency>
+  <currency>
+    <code>XAU</code>
+    <numeric>959</numeric>
+    <precision>.</precision>
+    <name language="en">Gold (one troy ounce)</name>
+  </currency>
+  <currency>
+    <code>XBA</code>
+    <numeric>955</numeric>
+    <precision>.</precision>
+    <name language="en">European Composite Unit (EURCO) (bond market unit)</name>
+  </currency>
+  <currency>
+    <code>XBB</code>
+    <numeric>956</numeric>
+    <precision>.</precision>
+    <name language="en">European Monetary Unit (E.M.U.-6) (bond market unit)</name>
+  </currency>
+  <currency>
+    <code>XBC</code>
+    <numeric>957</numeric>
+    <precision>.</precision>
+    <name language="en">European Unit of Account 9 (E.U.A.-9) (bond market unit)</name>
+  </currency>
+  <currency>
+    <code>XBD</code>
+    <numeric>958</numeric>
+    <precision>.</precision>
+    <name language="en">European Unit of Account 17 (E.U.A.-17) (bond market unit)</name>
+  </currency>
+  <currency>
+    <code>XCD</code>
+    <numeric>951</numeric>
+    <precision>2</precision>
+    <name language="en">East Caribbean dollar</name>
+    <location language="en">Anguilla</location>
+    <location language="en">Antigua and Barbuda</location>
+    <location language="en">Dominica</location>
+    <location language="en">Grenada</location>
+    <location language="en">Montserrat</location>
+    <location language="en">Saint Kitts and Nevis</location>
+    <location language="en">Saint Lucia</location>
+    <location language="en">Saint Vincent and the Grenadines</location>
+  </currency>
+  <currency>
+    <code>XDR</code>
+    <numeric>960</numeric>
+    <precision>.</precision>
+    <name language="en">Special drawing rights</name>
+    <location language="en">International Monetary Fund</location>
+  </currency>
+  <currency>
+    <code>XFU</code>
+    <numeric>Nil</numeric>
+    <precision>.</precision>
+    <name language="en">UIC franc (special settlement currency)</name>
+    <location language="en">International Union of Railways</location>
+  </currency>
+  <currency>
+    <code>XOF</code>
+    <numeric>952</numeric>
+    <precision>0</precision>
+    <name language="en">CFA franc BCEAO</name>
+    <location language="en">Benin</location>
+    <location language="en">Burkina Faso</location>
+    <location language="en">Côte d'Ivoire</location>
+    <location language="en">Guinea-Bissau</location>
+    <location language="en">Mali</location>
+    <location language="en">Niger</location>
+    <location language="en">Senegal</location>
+    <location language="en">Togo</location>
+  </currency>
+  <currency>
+    <code>XPD</code>
+    <numeric>964</numeric>
+    <precision>.</precision>
+    <name language="en">Palladium (one troy ounce)</name>
+  </currency>
+  <currency>
+    <code>XPF</code>
+    <numeric>953</numeric>
+    <precision>0</precision>
+    <name language="en">CFP franc</name>
+    <location language="en">French Polynesia</location>
+    <location language="en">New Caledonia</location>
+    <location language="en">Wallis and Futuna</location>
+  </currency>
+  <currency>
+    <code>XPT</code>
+    <numeric>962</numeric>
+    <precision>.</precision>
+    <name language="en">Platinum (one troy ounce)</name>
+  </currency>
+  <currency>
+    <code>XTS</code>
+    <numeric>963</numeric>
+    <precision>.</precision>
+    <name language="en">Code reserved for testing purposes</name>
+  </currency>
+  <currency>
+    <code> XXX</code>
+    <numeric>999</numeric>
+    <precision>.</precision>
+    <name language="en">No currency</name>
+  </currency>
+  <currency>
+    <code>YER</code>
+    <numeric>886</numeric>
+    <precision>2</precision>
+    <name language="en">Yemeni rial</name>
+    <location language="en">Yemen</location>
+  </currency>
+  <currency>
+    <code>ZAR</code>
+    <numeric>710</numeric>
+    <precision>2</precision>
+    <name language="en">South African rand</name>
+    <location language="en">South Africa</location>
+  </currency>
+  <currency>
+    <code>ZMW</code>
+    <numeric>967</numeric>
+    <precision>2</precision>
+    <name language="en">Zambian kwacha</name>
+    <location language="en">Zambia</location>
+  </currency>
+</currencies>

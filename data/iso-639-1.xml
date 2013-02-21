@@ -1,0 +1,1843 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<languages>
+  <language>
+    <family>Northwest Caucasian</family>
+    <name language="en">Abkhaz</name>
+    <name language="ab">аҧсуа бызшәа, аҧсшәа</name>
+    <iso-639-1>ab</iso-639-1>
+    <iso-639-2T>abk</iso-639-2T>
+    <iso-639-3>abk</iso-639-3>
+    <iso-639-6>abk</iso-639-6>
+    <notes>abks</notes>
+  </language>
+  <language>
+    <family>Afro-Asiatic</family>
+    <name language="en">Afar</name>
+    <name language="aa">Afaraf</name>
+    <iso-639-1>aa</iso-639-1>
+    <iso-639-2T>aar</iso-639-2T>
+    <iso-639-3>aar</iso-639-3>
+    <iso-639-6>aar</iso-639-6>
+    <notes>aars</notes>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Afrikaans</name>
+    <name language="af">Afrikaans</name>
+    <iso-639-1>af</iso-639-1>
+    <iso-639-2T>afr</iso-639-2T>
+    <iso-639-3>afr</iso-639-3>
+    <iso-639-6>afr</iso-639-6>
+    <notes>afrs</notes>
+  </language>
+  <language>
+    <family>Niger–Congo</family>
+    <name language="en">Akan</name>
+    <name language="ak">Akan</name>
+    <iso-639-1>ak</iso-639-1>
+    <iso-639-2T>aka</iso-639-2T>
+    <iso-639-3>aka</iso-639-3>
+    <iso-639-6>aka + 2</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Albanian</name>
+    <name language="sq">gjuha shqipe</name>
+    <iso-639-1>sq</iso-639-1>
+    <iso-639-2T>sqi</iso-639-2T>
+    <iso-639-3>alb</iso-639-3>
+    <iso-639-6>sqi + 4</iso-639-6>
+    <notes>–</notes>
+  </language>
+  <language>
+    <family>Afro-Asiatic</family>
+    <name language="en">Amharic</name>
+    <name language="am">አማርኛ</name>
+    <iso-639-1>am</iso-639-1>
+    <iso-639-2T>amh</iso-639-2T>
+    <iso-639-3>amh</iso-639-3>
+    <iso-639-6>amh</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Afro-Asiatic</family>
+    <name language="en">Arabic</name>
+    <name language="ar">العربية</name>
+    <iso-639-1>ar</iso-639-1>
+    <iso-639-2T>ara</iso-639-2T>
+    <iso-639-3>ara</iso-639-3>
+    <iso-639-6>ara + 30</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Aragonese</name>
+    <name language="an">aragonés</name>
+    <iso-639-1>an</iso-639-1>
+    <iso-639-2T>arg</iso-639-2T>
+    <iso-639-3>arg</iso-639-3>
+    <iso-639-6>arg</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Armenian</name>
+    <name language="hy">Հայերեն</name>
+    <iso-639-1>hy</iso-639-1>
+    <iso-639-2T>hye</iso-639-2T>
+    <iso-639-3>arm</iso-639-3>
+    <iso-639-6>hye</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Assamese</name>
+    <name language="as">অসমীয়া</name>
+    <iso-639-1>as</iso-639-1>
+    <iso-639-2T>asm</iso-639-2T>
+    <iso-639-3>asm</iso-639-3>
+    <iso-639-6>asm</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Northeast Caucasian</family>
+    <name language="en">Avaric</name>
+    <name language="av">авар мацӀ, магӀарул мацӀ</name>
+    <iso-639-1>av</iso-639-1>
+    <iso-639-2T>ava</iso-639-2T>
+    <iso-639-3>ava</iso-639-3>
+    <iso-639-6>ava</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Avestan</name>
+    <name language="ae">avesta</name>
+    <iso-639-1>ae</iso-639-1>
+    <iso-639-2T>ave</iso-639-2T>
+    <iso-639-3>ave</iso-639-3>
+    <iso-639-6>ave</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Aymaran</family>
+    <name language="en">Aymara</name>
+    <name language="ay">aymar aru</name>
+    <iso-639-1>ay</iso-639-1>
+    <iso-639-2T>aym</iso-639-2T>
+    <iso-639-3>aym</iso-639-3>
+    <iso-639-6>aym + 2</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Turkic</family>
+    <name language="en">Azerbaijani</name>
+    <name language="az">azərbaycan dili</name>
+    <iso-639-1>az</iso-639-1>
+    <iso-639-2T>aze</iso-639-2T>
+    <iso-639-3>aze</iso-639-3>
+    <iso-639-6>aze + 2</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Niger–Congo</family>
+    <name language="en">Bambara</name>
+    <name language="bm">bamanankan</name>
+    <iso-639-1>bm</iso-639-1>
+    <iso-639-2T>bam</iso-639-2T>
+    <iso-639-3>bam</iso-639-3>
+    <iso-639-6>bam</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Turkic</family>
+    <name language="en">Bashkir</name>
+    <name language="ba">башҡорт теле</name>
+    <iso-639-1>ba</iso-639-1>
+    <iso-639-2T>bak</iso-639-2T>
+    <iso-639-3>bak</iso-639-3>
+    <iso-639-6>bak</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Language isolate</family>
+    <name language="en">Basque</name>
+    <name language="eu">euskara, euskera</name>
+    <iso-639-1>eu</iso-639-1>
+    <iso-639-2T>eus</iso-639-2T>
+    <iso-639-3>baq</iso-639-3>
+    <iso-639-6>eus</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Belarusian</name>
+    <name language="be">беларуская мова</name>
+    <iso-639-1>be</iso-639-1>
+    <iso-639-2T>bel</iso-639-2T>
+    <iso-639-3>bel</iso-639-3>
+    <iso-639-6>bel</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Bengali; Bangla</name>
+    <name language="bn">বাংলা</name>
+    <iso-639-1>bn</iso-639-1>
+    <iso-639-2T>ben</iso-639-2T>
+    <iso-639-3>ben</iso-639-3>
+    <iso-639-6>ben</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Bihari</name>
+    <name language="bh">भोजपुरी</name>
+    <iso-639-1>bh</iso-639-1>
+    <iso-639-2T>bih</iso-639-2T>
+    <iso-639-3>bih</iso-639-3>
+    <iso-639-6>–</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Creole</family>
+    <name language="en">Bislama</name>
+    <name language="bi">Bislama</name>
+    <iso-639-1>bi</iso-639-1>
+    <iso-639-2T>bis</iso-639-2T>
+    <iso-639-3>bis</iso-639-3>
+    <iso-639-6>bis</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Bosnian</name>
+    <name language="bs">bosanski jezik</name>
+    <iso-639-1>bs</iso-639-1>
+    <iso-639-2T>bos</iso-639-2T>
+    <iso-639-3>bos</iso-639-3>
+    <iso-639-6>bos</iso-639-6>
+    <notes>boss</notes>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Breton</name>
+    <name language="br">brezhoneg</name>
+    <iso-639-1>br</iso-639-1>
+    <iso-639-2T>bre</iso-639-2T>
+    <iso-639-3>bre</iso-639-3>
+    <iso-639-6>bre</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Bulgarian</name>
+    <name language="bg">български език</name>
+    <iso-639-1>bg</iso-639-1>
+    <iso-639-2T>bul</iso-639-2T>
+    <iso-639-3>bul</iso-639-3>
+    <iso-639-6>bul</iso-639-6>
+    <notes>buls</notes>
+  </language>
+  <language>
+    <family>Sino-Tibetan</family>
+    <name language="en">Burmese</name>
+    <name language="my">ဗမာစာ</name>
+    <iso-639-1>my</iso-639-1>
+    <iso-639-2T>mya</iso-639-2T>
+    <iso-639-3>bur</iso-639-3>
+    <iso-639-6>mya</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Catalan; Valencian</name>
+    <name language="ca">català, valencià</name>
+    <iso-639-1>ca</iso-639-1>
+    <iso-639-2T>cat</iso-639-2T>
+    <iso-639-3>cat</iso-639-3>
+    <iso-639-6>cat</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Austronesian</family>
+    <name language="en">Chamorro</name>
+    <name language="ch">Chamoru</name>
+    <iso-639-1>ch</iso-639-1>
+    <iso-639-2T>cha</iso-639-2T>
+    <iso-639-3>cha</iso-639-3>
+    <iso-639-6>cha</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Northeast Caucasian</family>
+    <name language="en">Chechen</name>
+    <name language="ce">нохчийн мотт</name>
+    <iso-639-1>ce</iso-639-1>
+    <iso-639-2T>che</iso-639-2T>
+    <iso-639-3>che</iso-639-3>
+    <iso-639-6>che</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Niger–Congo</family>
+    <name language="en">Chichewa; Chewa; Nyanja</name>
+    <name language="ny">chiCheŵa, chinyanja</name>
+    <iso-639-1>ny</iso-639-1>
+    <iso-639-2T>nya</iso-639-2T>
+    <iso-639-3>nya</iso-639-3>
+    <iso-639-6>nya</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Sino-Tibetan</family>
+    <name language="en">Chinese</name>
+    <name language="zh">中文 (Zhōngwén), 汉语, 漢語</name>
+    <iso-639-1>zh</iso-639-1>
+    <iso-639-2T>zho</iso-639-2T>
+    <iso-639-3>chi</iso-639-3>
+    <iso-639-6>zho + 13</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Turkic</family>
+    <name language="en">Chuvash</name>
+    <name language="cv">чӑваш чӗлхи</name>
+    <iso-639-1>cv</iso-639-1>
+    <iso-639-2T>chv</iso-639-2T>
+    <iso-639-3>chv</iso-639-3>
+    <iso-639-6>chv</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Cornish</name>
+    <name language="kw">Kernewek</name>
+    <iso-639-1>kw</iso-639-1>
+    <iso-639-2T>cor</iso-639-2T>
+    <iso-639-3>cor</iso-639-3>
+    <iso-639-6>cor</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Corsican</name>
+    <name language="co">corsu, lingua corsa</name>
+    <iso-639-1>co</iso-639-1>
+    <iso-639-2T>cos</iso-639-2T>
+    <iso-639-3>cos</iso-639-3>
+    <iso-639-6>cos</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Algonquian</family>
+    <name language="en">Cree</name>
+    <name language="cr">ᓀᐦᐃᔭᐍᐏᐣ</name>
+    <iso-639-1>cr</iso-639-1>
+    <iso-639-2T>cre</iso-639-2T>
+    <iso-639-3>cre</iso-639-3>
+    <iso-639-6>cre + 6</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Croatian</name>
+    <name language="hr">hrvatski jezik</name>
+    <iso-639-1>hr</iso-639-1>
+    <iso-639-2T>hrv</iso-639-2T>
+    <iso-639-3>hrv</iso-639-3>
+    <iso-639-6>hrv</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Czech</name>
+    <name language="cs">čeština, český jazyk</name>
+    <iso-639-1>cs</iso-639-1>
+    <iso-639-2T>ces</iso-639-2T>
+    <iso-639-3>cze</iso-639-3>
+    <iso-639-6>ces</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Danish</name>
+    <name language="da">dansk</name>
+    <iso-639-1>da</iso-639-1>
+    <iso-639-2T>dan</iso-639-2T>
+    <iso-639-3>dan</iso-639-3>
+    <iso-639-6>dan</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Divehi; Dhivehi; Maldivian;</name>
+    <name language="dv">ދިވެހި</name>
+    <iso-639-1>dv</iso-639-1>
+    <iso-639-2T>div</iso-639-2T>
+    <iso-639-3>div</iso-639-3>
+    <iso-639-6>div</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Dutch</name>
+    <name language="nl">Nederlands, Vlaams</name>
+    <iso-639-1>nl</iso-639-1>
+    <iso-639-2T>nld</iso-639-2T>
+    <iso-639-3>dut</iso-639-3>
+    <iso-639-6>nld</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Sino-Tibetan</family>
+    <name language="en">Dzongkha</name>
+    <name language="dz">རྫོང་ཁ</name>
+    <iso-639-1>dz</iso-639-1>
+    <iso-639-2T>dzo</iso-639-2T>
+    <iso-639-3>dzo</iso-639-3>
+    <iso-639-6>dzo</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">English</name>
+    <name language="en">English</name>
+    <iso-639-1>en</iso-639-1>
+    <iso-639-2T>eng</iso-639-2T>
+    <iso-639-3>eng</iso-639-3>
+    <iso-639-6>eng</iso-639-6>
+    <notes>engs</notes>
+  </language>
+  <language>
+    <family>Constructed</family>
+    <name language="en">Esperanto</name>
+    <name language="eo">Esperanto</name>
+    <iso-639-1>eo</iso-639-1>
+    <iso-639-2T>epo</iso-639-2T>
+    <iso-639-3>epo</iso-639-3>
+    <iso-639-6>epo</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Uralic</family>
+    <name language="en">Estonian</name>
+    <name language="et">eesti, eesti keel</name>
+    <iso-639-1>et</iso-639-1>
+    <iso-639-2T>est</iso-639-2T>
+    <iso-639-3>est</iso-639-3>
+    <iso-639-6>est + 2</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Niger–Congo</family>
+    <name language="en">Ewe</name>
+    <name language="ee">Eʋegbe</name>
+    <iso-639-1>ee</iso-639-1>
+    <iso-639-2T>ewe</iso-639-2T>
+    <iso-639-3>ewe</iso-639-3>
+    <iso-639-6>ewe</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Faroese</name>
+    <name language="fo">føroyskt</name>
+    <iso-639-1>fo</iso-639-1>
+    <iso-639-2T>fao</iso-639-2T>
+    <iso-639-3>fao</iso-639-3>
+    <iso-639-6>fao</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Austronesian</family>
+    <name language="en">Fijian</name>
+    <name language="fj">vosa Vakaviti</name>
+    <iso-639-1>fj</iso-639-1>
+    <iso-639-2T>fij</iso-639-2T>
+    <iso-639-3>fij</iso-639-3>
+    <iso-639-6>fij</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Uralic</family>
+    <name language="en">Finnish</name>
+    <name language="fi">suomi, suomen kieli</name>
+    <iso-639-1>fi</iso-639-1>
+    <iso-639-2T>fin</iso-639-2T>
+    <iso-639-3>fin</iso-639-3>
+    <iso-639-6>fin</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">French</name>
+    <name language="fr">français, langue française</name>
+    <iso-639-1>fr</iso-639-1>
+    <iso-639-2T>fra</iso-639-2T>
+    <iso-639-3>fre</iso-639-3>
+    <iso-639-6>fra</iso-639-6>
+    <notes>fras</notes>
+  </language>
+  <language>
+    <family>Niger–Congo</family>
+    <name language="en">Fula; Fulah; Pulaar; Pular</name>
+    <name language="ff">Fulfulde, Pulaar, Pular</name>
+    <iso-639-1>ff</iso-639-1>
+    <iso-639-2T>ful</iso-639-2T>
+    <iso-639-3>ful</iso-639-3>
+    <iso-639-6>ful + 9</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Galician</name>
+    <name language="gl">galego</name>
+    <iso-639-1>gl</iso-639-1>
+    <iso-639-2T>glg</iso-639-2T>
+    <iso-639-3>glg</iso-639-3>
+    <iso-639-6>glg</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>South Caucasian</family>
+    <name language="en">Georgian</name>
+    <name language="ka">ქართული</name>
+    <iso-639-1>ka</iso-639-1>
+    <iso-639-2T>kat</iso-639-2T>
+    <iso-639-3>geo</iso-639-3>
+    <iso-639-6>kat</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">German</name>
+    <name language="de">Deutsch</name>
+    <iso-639-1>de</iso-639-1>
+    <iso-639-2T>deu</iso-639-2T>
+    <iso-639-3>ger</iso-639-3>
+    <iso-639-6>deu</iso-639-6>
+    <notes>deus</notes>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Greek, Modern</name>
+    <name language="el">ελληνικά</name>
+    <iso-639-1>el</iso-639-1>
+    <iso-639-2T>ell</iso-639-2T>
+    <iso-639-3>gre</iso-639-3>
+    <iso-639-6>ell</iso-639-6>
+    <notes>ells</notes>
+  </language>
+  <language>
+    <family>Tupian</family>
+    <name language="en">Guaraní</name>
+    <name language="gn">Avañe'ẽ</name>
+    <iso-639-1>gn</iso-639-1>
+    <iso-639-2T>grn</iso-639-2T>
+    <iso-639-3>grn</iso-639-3>
+    <iso-639-6>grn + 5</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Gujarati</name>
+    <name language="gu">ગુજરાતી</name>
+    <iso-639-1>gu</iso-639-1>
+    <iso-639-2T>guj</iso-639-2T>
+    <iso-639-3>guj</iso-639-3>
+    <iso-639-6>guj</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Creole</family>
+    <name language="en">Haitian; Haitian Creole</name>
+    <name language="ht">Kreyòl ayisyen</name>
+    <iso-639-1>ht</iso-639-1>
+    <iso-639-2T>hat</iso-639-2T>
+    <iso-639-3>hat</iso-639-3>
+    <iso-639-6>hat</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Afro-Asiatic</family>
+    <name language="en">Hausa</name>
+    <name language="ha">Hausa, هَوُسَ</name>
+    <iso-639-1>ha</iso-639-1>
+    <iso-639-2T>hau</iso-639-2T>
+    <iso-639-3>hau</iso-639-3>
+    <iso-639-6>hau</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Afro-Asiatic</family>
+    <name language="en">Hebrew (modern)</name>
+    <name language="he">עברית</name>
+    <iso-639-1>he</iso-639-1>
+    <iso-639-2T>heb</iso-639-2T>
+    <iso-639-3>heb</iso-639-3>
+    <iso-639-6>heb</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Niger–Congo</family>
+    <name language="en">Herero</name>
+    <name language="hz">Otjiherero</name>
+    <iso-639-1>hz</iso-639-1>
+    <iso-639-2T>her</iso-639-2T>
+    <iso-639-3>her</iso-639-3>
+    <iso-639-6>her</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Hindi</name>
+    <name language="hi">हिन्दी, हिंदी</name>
+    <iso-639-1>hi</iso-639-1>
+    <iso-639-2T>hin</iso-639-2T>
+    <iso-639-3>hin</iso-639-3>
+    <iso-639-6>hin</iso-639-6>
+    <notes>hins</notes>
+  </language>
+  <language>
+    <family>Austronesian</family>
+    <name language="en">Hiri Motu</name>
+    <name language="ho">Hiri Motu</name>
+    <iso-639-1>ho</iso-639-1>
+    <iso-639-2T>hmo</iso-639-2T>
+    <iso-639-3>hmo</iso-639-3>
+    <iso-639-6>hmo</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Uralic</family>
+    <name language="en">Hungarian</name>
+    <name language="hu">magyar</name>
+    <iso-639-1>hu</iso-639-1>
+    <iso-639-2T>hun</iso-639-2T>
+    <iso-639-3>hun</iso-639-3>
+    <iso-639-6>hun</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Constructed</family>
+    <name language="en">Interlingua</name>
+    <name language="ia">Interlingua</name>
+    <iso-639-1>ia</iso-639-1>
+    <iso-639-2T>ina</iso-639-2T>
+    <iso-639-3>ina</iso-639-3>
+    <iso-639-6>ina</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Austronesian</family>
+    <name language="en">Indonesian</name>
+    <name language="id">Bahasa Indonesia</name>
+    <iso-639-1>id</iso-639-1>
+    <iso-639-2T>ind</iso-639-2T>
+    <iso-639-3>ind</iso-639-3>
+    <iso-639-6>ind</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Constructed</family>
+    <name language="en">Interlingue</name>
+    <name language="ie">Originally called Occidental; then Interlingue after WWII</name>
+    <iso-639-1>ie</iso-639-1>
+    <iso-639-2T>ile</iso-639-2T>
+    <iso-639-3>ile</iso-639-3>
+    <iso-639-6>ile</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Irish</name>
+    <name language="ga">Gaeilge</name>
+    <iso-639-1>ga</iso-639-1>
+    <iso-639-2T>gle</iso-639-2T>
+    <iso-639-3>gle</iso-639-3>
+    <iso-639-6>gle</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Niger–Congo</family>
+    <name language="en">Igbo</name>
+    <name language="ig">Asụsụ Igbo</name>
+    <iso-639-1>ig</iso-639-1>
+    <iso-639-2T>ibo</iso-639-2T>
+    <iso-639-3>ibo</iso-639-3>
+    <iso-639-6>ibo</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Eskimo–Aleut</family>
+    <name language="en">Inupiaq</name>
+    <name language="ik">Iñupiaq, Iñupiatun</name>
+    <iso-639-1>ik</iso-639-1>
+    <iso-639-2T>ipk</iso-639-2T>
+    <iso-639-3>ipk</iso-639-3>
+    <iso-639-6>ipk + 2</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Constructed</family>
+    <name language="en">Ido</name>
+    <name language="io">Ido</name>
+    <iso-639-1>io</iso-639-1>
+    <iso-639-2T>ido</iso-639-2T>
+    <iso-639-3>ido</iso-639-3>
+    <iso-639-6>ido</iso-639-6>
+    <notes>idos</notes>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Icelandic</name>
+    <name language="is">Íslenska</name>
+    <iso-639-1>is</iso-639-1>
+    <iso-639-2T>isl</iso-639-2T>
+    <iso-639-3>ice</iso-639-3>
+    <iso-639-6>isl</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Italian</name>
+    <name language="it">italiano</name>
+    <iso-639-1>it</iso-639-1>
+    <iso-639-2T>ita</iso-639-2T>
+    <iso-639-3>ita</iso-639-3>
+    <iso-639-6>ita</iso-639-6>
+    <notes>itas</notes>
+  </language>
+  <language>
+    <family>Eskimo–Aleut</family>
+    <name language="en">Inuktitut</name>
+    <name language="iu">ᐃᓄᒃᑎᑐᑦ</name>
+    <iso-639-1>iu</iso-639-1>
+    <iso-639-2T>iku</iso-639-2T>
+    <iso-639-3>iku</iso-639-3>
+    <iso-639-6>iku + 2</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Japonic</family>
+    <name language="en">Japanese</name>
+    <name language="ja">日本語 (にほんご)</name>
+    <iso-639-1>ja</iso-639-1>
+    <iso-639-2T>jpn</iso-639-2T>
+    <iso-639-3>jpn</iso-639-3>
+    <iso-639-6>jpn</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Austronesian</family>
+    <name language="en">Javanese</name>
+    <name language="jv">basa Jawa</name>
+    <iso-639-1>jv</iso-639-1>
+    <iso-639-2T>jav</iso-639-2T>
+    <iso-639-3>jav</iso-639-3>
+    <iso-639-6>jav</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Eskimo–Aleut</family>
+    <name language="en">Kalaallisut, Greenlandic</name>
+    <name language="kl">kalaallisut, kalaallit oqaasii</name>
+    <iso-639-1>kl</iso-639-1>
+    <iso-639-2T>kal</iso-639-2T>
+    <iso-639-3>kal</iso-639-3>
+    <iso-639-6>kal</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Dravidian</family>
+    <name language="en">Kannada</name>
+    <name language="kn">ಕನ್ನಡ</name>
+    <iso-639-1>kn</iso-639-1>
+    <iso-639-2T>kan</iso-639-2T>
+    <iso-639-3>kan</iso-639-3>
+    <iso-639-6>kan</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Nilo-Saharan</family>
+    <name language="en">Kanuri</name>
+    <name language="kr">Kanuri</name>
+    <iso-639-1>kr</iso-639-1>
+    <iso-639-2T>kau</iso-639-2T>
+    <iso-639-3>kau</iso-639-3>
+    <iso-639-6>kau + 3</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Kashmiri</name>
+    <name language="ks">कश्मीरी, كشميري‎</name>
+    <iso-639-1>ks</iso-639-1>
+    <iso-639-2T>kas</iso-639-2T>
+    <iso-639-3>kas</iso-639-3>
+    <iso-639-6>kas</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Turkic</family>
+    <name language="en">Kazakh</name>
+    <name language="kk">қазақ тілі</name>
+    <iso-639-1>kk</iso-639-1>
+    <iso-639-2T>kaz</iso-639-2T>
+    <iso-639-3>kaz</iso-639-3>
+    <iso-639-6>kaz</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Austroasiatic</family>
+    <name language="en">Khmer</name>
+    <name language="km">ខ្មែរ, ខេមរភាសា, ភាសាខ្មែរ</name>
+    <iso-639-1>km</iso-639-1>
+    <iso-639-2T>khm</iso-639-2T>
+    <iso-639-3>khm</iso-639-3>
+    <iso-639-6>khm</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Niger–Congo</family>
+    <name language="en">Kikuyu, Gikuyu</name>
+    <name language="ki">Gĩkũyũ</name>
+    <iso-639-1>ki</iso-639-1>
+    <iso-639-2T>kik</iso-639-2T>
+    <iso-639-3>kik</iso-639-3>
+    <iso-639-6>kik</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Niger–Congo</family>
+    <name language="en">Kinyarwanda</name>
+    <name language="rw">Ikinyarwanda</name>
+    <iso-639-1>rw</iso-639-1>
+    <iso-639-2T>kin</iso-639-2T>
+    <iso-639-3>kin</iso-639-3>
+    <iso-639-6>kin</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Turkic</family>
+    <name language="en">Kyrgyz</name>
+    <name language="ky">Кыргызча, Кыргыз тили</name>
+    <iso-639-1>ky</iso-639-1>
+    <iso-639-2T>kir</iso-639-2T>
+    <iso-639-3>kir</iso-639-3>
+    <iso-639-6>kir</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Uralic</family>
+    <name language="en">Komi</name>
+    <name language="kv">коми кыв</name>
+    <iso-639-1>kv</iso-639-1>
+    <iso-639-2T>kom</iso-639-2T>
+    <iso-639-3>kom</iso-639-3>
+    <iso-639-6>kom + 2</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Niger–Congo</family>
+    <name language="en">Kongo</name>
+    <name language="kg">KiKongo</name>
+    <iso-639-1>kg</iso-639-1>
+    <iso-639-2T>kon</iso-639-2T>
+    <iso-639-3>kon</iso-639-3>
+    <iso-639-6>kon + 3</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Language isolate</family>
+    <name language="en">Korean</name>
+    <name language="ko">한국어 (韓國語), 조선어 (朝鮮語)</name>
+    <iso-639-1>ko</iso-639-1>
+    <iso-639-2T>kor</iso-639-2T>
+    <iso-639-3>kor</iso-639-3>
+    <iso-639-6>kor</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Kurdish</name>
+    <name language="ku">Kurdî, كوردی‎</name>
+    <iso-639-1>ku</iso-639-1>
+    <iso-639-2T>kur</iso-639-2T>
+    <iso-639-3>kur</iso-639-3>
+    <iso-639-6>kur + 3</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Niger–Congo</family>
+    <name language="en">Kwanyama, Kuanyama</name>
+    <name language="kj">Kuanyama</name>
+    <iso-639-1>kj</iso-639-1>
+    <iso-639-2T>kua</iso-639-2T>
+    <iso-639-3>kua</iso-639-3>
+    <iso-639-6>kua</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Latin</name>
+    <name language="la">latine, lingua latina</name>
+    <iso-639-1>la</iso-639-1>
+    <iso-639-2T>lat</iso-639-2T>
+    <iso-639-3>lat</iso-639-3>
+    <iso-639-6>lat</iso-639-6>
+    <notes>lats</notes>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Luxembourgish, Letzeburgesch</name>
+    <name language="lb">Lëtzebuergesch</name>
+    <iso-639-1>lb</iso-639-1>
+    <iso-639-2T>ltz</iso-639-2T>
+    <iso-639-3>ltz</iso-639-3>
+    <iso-639-6>ltz</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Niger–Congo</family>
+    <name language="en">Ganda</name>
+    <name language="lg">Luganda</name>
+    <iso-639-1>lg</iso-639-1>
+    <iso-639-2T>lug</iso-639-2T>
+    <iso-639-3>lug</iso-639-3>
+    <iso-639-6>lug</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Limburgish, Limburgan, Limburger</name>
+    <name language="li">Limburgs</name>
+    <iso-639-1>li</iso-639-1>
+    <iso-639-2T>lim</iso-639-2T>
+    <iso-639-3>lim</iso-639-3>
+    <iso-639-6>lim</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Niger–Congo</family>
+    <name language="en">Lingala</name>
+    <name language="ln">Lingála</name>
+    <iso-639-1>ln</iso-639-1>
+    <iso-639-2T>lin</iso-639-2T>
+    <iso-639-3>lin</iso-639-3>
+    <iso-639-6>lin</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Tai–Kadai</family>
+    <name language="en">Lao</name>
+    <name language="lo">ພາສາລາວ</name>
+    <iso-639-1>lo</iso-639-1>
+    <iso-639-2T>lao</iso-639-2T>
+    <iso-639-3>lao</iso-639-3>
+    <iso-639-6>lao</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Lithuanian</name>
+    <name language="lt">lietuvių kalba</name>
+    <iso-639-1>lt</iso-639-1>
+    <iso-639-2T>lit</iso-639-2T>
+    <iso-639-3>lit</iso-639-3>
+    <iso-639-6>lit</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Niger–Congo</family>
+    <name language="en">Luba-Katanga</name>
+    <name language="lu">Tshiluba</name>
+    <iso-639-1>lu</iso-639-1>
+    <iso-639-2T>lub</iso-639-2T>
+    <iso-639-3>lub</iso-639-3>
+    <iso-639-6>lub</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Latvian</name>
+    <name language="lv">latviešu valoda</name>
+    <iso-639-1>lv</iso-639-1>
+    <iso-639-2T>lav</iso-639-2T>
+    <iso-639-3>lav</iso-639-3>
+    <iso-639-6>lav + 2</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Manx</name>
+    <name language="gv">Gaelg, Gailck</name>
+    <iso-639-1>gv</iso-639-1>
+    <iso-639-2T>glv</iso-639-2T>
+    <iso-639-3>glv</iso-639-3>
+    <iso-639-6>glv</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Macedonian</name>
+    <name language="mk">македонски јазик</name>
+    <iso-639-1>mk</iso-639-1>
+    <iso-639-2T>mkd</iso-639-2T>
+    <iso-639-3>mac</iso-639-3>
+    <iso-639-6>mkd</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Austronesian</family>
+    <name language="en">Malagasy</name>
+    <name language="mg">fiteny malagasy</name>
+    <iso-639-1>mg</iso-639-1>
+    <iso-639-2T>mlg</iso-639-2T>
+    <iso-639-3>mlg</iso-639-3>
+    <iso-639-6>mlg + 10</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Austronesian</family>
+    <name language="en">Malay</name>
+    <name language="ms">bahasa Melayu, بهاس ملايو‎</name>
+    <iso-639-1>ms</iso-639-1>
+    <iso-639-2T>msa</iso-639-2T>
+    <iso-639-3>may</iso-639-3>
+    <iso-639-6>msa + 13</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Dravidian</family>
+    <name language="en">Malayalam</name>
+    <name language="ml">മലയാളം</name>
+    <iso-639-1>ml</iso-639-1>
+    <iso-639-2T>mal</iso-639-2T>
+    <iso-639-3>mal</iso-639-3>
+    <iso-639-6>mal</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Afro-Asiatic</family>
+    <name language="en">Maltese</name>
+    <name language="mt">Malti</name>
+    <iso-639-1>mt</iso-639-1>
+    <iso-639-2T>mlt</iso-639-2T>
+    <iso-639-3>mlt</iso-639-3>
+    <iso-639-6>mlt</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Austronesian</family>
+    <name language="en">Māori</name>
+    <name language="mi">te reo Māori</name>
+    <iso-639-1>mi</iso-639-1>
+    <iso-639-2T>mri</iso-639-2T>
+    <iso-639-3>mao</iso-639-3>
+    <iso-639-6>mri</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Marathi (Marāṭhī)</name>
+    <name language="mr">मराठी</name>
+    <iso-639-1>mr</iso-639-1>
+    <iso-639-2T>mar</iso-639-2T>
+    <iso-639-3>mar</iso-639-3>
+    <iso-639-6>mar</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Austronesian</family>
+    <name language="en">Marshallese</name>
+    <name language="mh">Kajin M̧ajeļ</name>
+    <iso-639-1>mh</iso-639-1>
+    <iso-639-2T>mah</iso-639-2T>
+    <iso-639-3>mah</iso-639-3>
+    <iso-639-6>mah</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Mongolic</family>
+    <name language="en">Mongolian</name>
+    <name language="mn">монгол</name>
+    <iso-639-1>mn</iso-639-1>
+    <iso-639-2T>mon</iso-639-2T>
+    <iso-639-3>mon</iso-639-3>
+    <iso-639-6>mon + 2</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Austronesian</family>
+    <name language="en">Nauru</name>
+    <name language="na">Ekakairũ Naoero</name>
+    <iso-639-1>na</iso-639-1>
+    <iso-639-2T>nau</iso-639-2T>
+    <iso-639-3>nau</iso-639-3>
+    <iso-639-6>nau</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Dené–Yeniseian</family>
+    <name language="en">Navajo, Navaho</name>
+    <name language="nv">Diné bizaad, Dinékʼehǰí</name>
+    <iso-639-1>nv</iso-639-1>
+    <iso-639-2T>nav</iso-639-2T>
+    <iso-639-3>nav</iso-639-3>
+    <iso-639-6>nav</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Norwegian Bokmål</name>
+    <name language="nb">Norsk bokmål</name>
+    <iso-639-1>nb</iso-639-1>
+    <iso-639-2T>nob</iso-639-2T>
+    <iso-639-3>nob</iso-639-3>
+    <iso-639-6>nob</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Niger–Congo</family>
+    <name language="en">North Ndebele</name>
+    <name language="nd">isiNdebele</name>
+    <iso-639-1>nd</iso-639-1>
+    <iso-639-2T>nde</iso-639-2T>
+    <iso-639-3>nde</iso-639-3>
+    <iso-639-6>nde</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Nepali</name>
+    <name language="ne">नेपाली</name>
+    <iso-639-1>ne</iso-639-1>
+    <iso-639-2T>nep</iso-639-2T>
+    <iso-639-3>nep</iso-639-3>
+    <iso-639-6>nep</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Niger–Congo</family>
+    <name language="en">Ndonga</name>
+    <name language="ng">Owambo</name>
+    <iso-639-1>ng</iso-639-1>
+    <iso-639-2T>ndo</iso-639-2T>
+    <iso-639-3>ndo</iso-639-3>
+    <iso-639-6>ndo</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Norwegian Nynorsk</name>
+    <name language="nn">Norsk nynorsk</name>
+    <iso-639-1>nn</iso-639-1>
+    <iso-639-2T>nno</iso-639-2T>
+    <iso-639-3>nno</iso-639-3>
+    <iso-639-6>nno</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Norwegian</name>
+    <name language="no">Norsk</name>
+    <iso-639-1>no</iso-639-1>
+    <iso-639-2T>nor</iso-639-2T>
+    <iso-639-3>nor</iso-639-3>
+    <iso-639-6>nor + 2</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Sino-Tibetan</family>
+    <name language="en">Nuosu</name>
+    <name language="ii">ꆈꌠ꒿ Nuosuhxop</name>
+    <iso-639-1>ii</iso-639-1>
+    <iso-639-2T>iii</iso-639-2T>
+    <iso-639-3>iii</iso-639-3>
+    <iso-639-6>iii</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Niger–Congo</family>
+    <name language="en">South Ndebele</name>
+    <name language="nr">isiNdebele</name>
+    <iso-639-1>nr</iso-639-1>
+    <iso-639-2T>nbl</iso-639-2T>
+    <iso-639-3>nbl</iso-639-3>
+    <iso-639-6>nbl</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Occitan</name>
+    <name language="oc">occitan, lenga d'òc</name>
+    <iso-639-1>oc</iso-639-1>
+    <iso-639-2T>oci</iso-639-2T>
+    <iso-639-3>oci</iso-639-3>
+    <iso-639-6>oci</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Algonquian</family>
+    <name language="en">Ojibwe, Ojibwa</name>
+    <name language="oj">ᐊᓂᔑᓈᐯᒧᐎᓐ</name>
+    <iso-639-1>oj</iso-639-1>
+    <iso-639-2T>oji</iso-639-2T>
+    <iso-639-3>oji</iso-639-3>
+    <iso-639-6>oji + 7</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Old Church Slavonic, Church Slavic, Church Slavonic, Old Bulgarian, Old Slavonic</name>
+    <name language="cu">ѩзыкъ словѣньскъ</name>
+    <iso-639-1>cu</iso-639-1>
+    <iso-639-2T>chu</iso-639-2T>
+    <iso-639-3>chu</iso-639-3>
+    <iso-639-6>chu</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Afro-Asiatic</family>
+    <name language="en">Oromo</name>
+    <name language="om">Afaan Oromoo</name>
+    <iso-639-1>om</iso-639-1>
+    <iso-639-2T>orm</iso-639-2T>
+    <iso-639-3>orm</iso-639-3>
+    <iso-639-6>orm + 4</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Inida-Asia</family>
+    <name language="en">Oriya</name>
+    <name language="or">ଓଡ଼ିଆ</name>
+    <iso-639-1>or</iso-639-1>
+    <iso-639-2T>ori</iso-639-2T>
+    <iso-639-3>ori</iso-639-3>
+    <iso-639-6>ori</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Ossetian, Ossetic</name>
+    <name language="os">ирон æвзаг</name>
+    <iso-639-1>os</iso-639-1>
+    <iso-639-2T>oss</iso-639-2T>
+    <iso-639-3>oss</iso-639-3>
+    <iso-639-6>oss</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Panjabi, Punjabi</name>
+    <name language="pa">ਪੰਜਾਬੀ, پنجابی‎</name>
+    <iso-639-1>pa</iso-639-1>
+    <iso-639-2T>pan</iso-639-2T>
+    <iso-639-3>pan</iso-639-3>
+    <iso-639-6>pan</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Pāli</name>
+    <name language="pi">पाऴि</name>
+    <iso-639-1>pi</iso-639-1>
+    <iso-639-2T>pli</iso-639-2T>
+    <iso-639-3>pli</iso-639-3>
+    <iso-639-6>pli</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Persian</name>
+    <name language="fa">فارسی</name>
+    <iso-639-1>fa</iso-639-1>
+    <iso-639-2T>fas</iso-639-2T>
+    <iso-639-3>per</iso-639-3>
+    <iso-639-6>fas + 2</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Polish</name>
+    <name language="pl">język polski, polszczyzna</name>
+    <iso-639-1>pl</iso-639-1>
+    <iso-639-2T>pol</iso-639-2T>
+    <iso-639-3>pol</iso-639-3>
+    <iso-639-6>pol</iso-639-6>
+    <notes>pols</notes>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Pashto, Pushto</name>
+    <name language="ps">پښتو</name>
+    <iso-639-1>ps</iso-639-1>
+    <iso-639-2T>pus</iso-639-2T>
+    <iso-639-3>pus</iso-639-3>
+    <iso-639-6>pus + 3</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Portuguese</name>
+    <name language="pt">português</name>
+    <iso-639-1>pt</iso-639-1>
+    <iso-639-2T>por</iso-639-2T>
+    <iso-639-3>por</iso-639-3>
+    <iso-639-6>por</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Quechuan</family>
+    <name language="en">Quechua</name>
+    <name language="qu">Runa Simi, Kichwa</name>
+    <iso-639-1>qu</iso-639-1>
+    <iso-639-2T>que</iso-639-2T>
+    <iso-639-3>que</iso-639-3>
+    <iso-639-6>que + 44</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Romansh</name>
+    <name language="rm">rumantsch grischun</name>
+    <iso-639-1>rm</iso-639-1>
+    <iso-639-2T>roh</iso-639-2T>
+    <iso-639-3>roh</iso-639-3>
+    <iso-639-6>roh</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Niger–Congo</family>
+    <name language="en">Kirundi</name>
+    <name language="rn">Ikirundi</name>
+    <iso-639-1>rn</iso-639-1>
+    <iso-639-2T>run</iso-639-2T>
+    <iso-639-3>run</iso-639-3>
+    <iso-639-6>run</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Romanian, Moldavian(Romanian from Republic of Moldova)</name>
+    <name language="ro">limba română</name>
+    <iso-639-1>ro</iso-639-1>
+    <iso-639-2T>ron</iso-639-2T>
+    <iso-639-3>rum</iso-639-3>
+    <iso-639-6>ron</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Russian</name>
+    <name language="ru">русский язык</name>
+    <iso-639-1>ru</iso-639-1>
+    <iso-639-2T>rus</iso-639-2T>
+    <iso-639-3>rus</iso-639-3>
+    <iso-639-6>rus</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Sanskrit (Saṁskṛta)</name>
+    <name language="sa">संस्कृतम्</name>
+    <iso-639-1>sa</iso-639-1>
+    <iso-639-2T>san</iso-639-2T>
+    <iso-639-3>san</iso-639-3>
+    <iso-639-6>san</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Sardinian</name>
+    <name language="sc">sardu</name>
+    <iso-639-1>sc</iso-639-1>
+    <iso-639-2T>srd</iso-639-2T>
+    <iso-639-3>srd</iso-639-3>
+    <iso-639-6>srd + 4</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Sindhi</name>
+    <name language="sd">सिन्धी, سنڌي، سندھی‎</name>
+    <iso-639-1>sd</iso-639-1>
+    <iso-639-2T>snd</iso-639-2T>
+    <iso-639-3>snd</iso-639-3>
+    <iso-639-6>snd</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Uralic</family>
+    <name language="en">Northern Sami</name>
+    <name language="se">Davvisámegiella</name>
+    <iso-639-1>se</iso-639-1>
+    <iso-639-2T>sme</iso-639-2T>
+    <iso-639-3>sme</iso-639-3>
+    <iso-639-6>sme</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Austronesian</family>
+    <name language="en">Samoan</name>
+    <name language="sm">gagana fa'a Samoa</name>
+    <iso-639-1>sm</iso-639-1>
+    <iso-639-2T>smo</iso-639-2T>
+    <iso-639-3>smo</iso-639-3>
+    <iso-639-6>smo</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Creole</family>
+    <name language="en">Sango</name>
+    <name language="sg">yângâ tî sängö</name>
+    <iso-639-1>sg</iso-639-1>
+    <iso-639-2T>sag</iso-639-2T>
+    <iso-639-3>sag</iso-639-3>
+    <iso-639-6>sag</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Serbian</name>
+    <name language="sr">српски језик</name>
+    <iso-639-1>sr</iso-639-1>
+    <iso-639-2T>srp</iso-639-2T>
+    <iso-639-3>srp</iso-639-3>
+    <iso-639-6>srp</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Scottish Gaelic; Gaelic</name>
+    <name language="gd">Gàidhlig</name>
+    <iso-639-1>gd</iso-639-1>
+    <iso-639-2T>gla</iso-639-2T>
+    <iso-639-3>gla</iso-639-3>
+    <iso-639-6>gla</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Niger–Congo</family>
+    <name language="en">Shona</name>
+    <name language="sn">chiShona</name>
+    <iso-639-1>sn</iso-639-1>
+    <iso-639-2T>sna</iso-639-2T>
+    <iso-639-3>sna</iso-639-3>
+    <iso-639-6>sna</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Sinhala, Sinhalese</name>
+    <name language="si">සිංහල</name>
+    <iso-639-1>si</iso-639-1>
+    <iso-639-2T>sin</iso-639-2T>
+    <iso-639-3>sin</iso-639-3>
+    <iso-639-6>sin</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Slovak</name>
+    <name language="sk">slovenčina, slovenský jazyk</name>
+    <iso-639-1>sk</iso-639-1>
+    <iso-639-2T>slk</iso-639-2T>
+    <iso-639-3>slo</iso-639-3>
+    <iso-639-6>slk</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Slovene</name>
+    <name language="sl">slovenski jezik, slovenščina</name>
+    <iso-639-1>sl</iso-639-1>
+    <iso-639-2T>slv</iso-639-2T>
+    <iso-639-3>slv</iso-639-3>
+    <iso-639-6>slv</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Afro-Asiatic</family>
+    <name language="en">Somali</name>
+    <name language="so">Soomaaliga, af Soomaali</name>
+    <iso-639-1>so</iso-639-1>
+    <iso-639-2T>som</iso-639-2T>
+    <iso-639-3>som</iso-639-3>
+    <iso-639-6>som</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Niger–Congo</family>
+    <name language="en">Southern Sotho</name>
+    <name language="st">Sesotho</name>
+    <iso-639-1>st</iso-639-1>
+    <iso-639-2T>sot</iso-639-2T>
+    <iso-639-3>sot</iso-639-3>
+    <iso-639-6>sot</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Spanish; Castilian</name>
+    <name language="es">español, castellano</name>
+    <iso-639-1>es</iso-639-1>
+    <iso-639-2T>spa</iso-639-2T>
+    <iso-639-3>spa</iso-639-3>
+    <iso-639-6>spa</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Austronesian</family>
+    <name language="en">Sundanese</name>
+    <name language="su">Basa Sunda</name>
+    <iso-639-1>su</iso-639-1>
+    <iso-639-2T>sun</iso-639-2T>
+    <iso-639-3>sun</iso-639-3>
+    <iso-639-6>sun</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Niger–Congo</family>
+    <name language="en">Swahili</name>
+    <name language="sw">Kiswahili</name>
+    <iso-639-1>sw</iso-639-1>
+    <iso-639-2T>swa</iso-639-2T>
+    <iso-639-3>swa</iso-639-3>
+    <iso-639-6>swa + 2</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Niger–Congo</family>
+    <name language="en">Swati</name>
+    <name language="ss">SiSwati</name>
+    <iso-639-1>ss</iso-639-1>
+    <iso-639-2T>ssw</iso-639-2T>
+    <iso-639-3>ssw</iso-639-3>
+    <iso-639-6>ssw</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Swedish</name>
+    <name language="sv">Svenska</name>
+    <iso-639-1>sv</iso-639-1>
+    <iso-639-2T>swe</iso-639-2T>
+    <iso-639-3>swe</iso-639-3>
+    <iso-639-6>swe</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Tamil</name>
+    <name language="ta">தமிழ்</name>
+    <iso-639-1>ta</iso-639-1>
+    <iso-639-2T>tam</iso-639-2T>
+    <iso-639-3>tam</iso-639-3>
+    <iso-639-6>tam</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Telugu</name>
+    <name language="te">తెలుగు</name>
+    <iso-639-1>te</iso-639-1>
+    <iso-639-2T>tel</iso-639-2T>
+    <iso-639-3>tel</iso-639-3>
+    <iso-639-6>tel</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Tajik</name>
+    <name language="tg">тоҷикӣ, toğikī, تاجیکی‎</name>
+    <iso-639-1>tg</iso-639-1>
+    <iso-639-2T>tgk</iso-639-2T>
+    <iso-639-3>tgk</iso-639-3>
+    <iso-639-6>tgk</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Tai–Kadai</family>
+    <name language="en">Thai</name>
+    <name language="th">ไทย</name>
+    <iso-639-1>th</iso-639-1>
+    <iso-639-2T>tha</iso-639-2T>
+    <iso-639-3>tha</iso-639-3>
+    <iso-639-6>tha</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Afro-Asiatic</family>
+    <name language="en">Tigrinya</name>
+    <name language="ti">ትግርኛ</name>
+    <iso-639-1>ti</iso-639-1>
+    <iso-639-2T>tir</iso-639-2T>
+    <iso-639-3>tir</iso-639-3>
+    <iso-639-6>tir</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Sino-Tibetan</family>
+    <name language="en">Tibetan Standard, Tibetan, Central</name>
+    <name language="bo">བོད་ཡིག</name>
+    <iso-639-1>bo</iso-639-1>
+    <iso-639-2T>bod</iso-639-2T>
+    <iso-639-3>tib</iso-639-3>
+    <iso-639-6>bod</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Turkic</family>
+    <name language="en">Turkmen</name>
+    <name language="tk">Türkmen, Түркмен</name>
+    <iso-639-1>tk</iso-639-1>
+    <iso-639-2T>tuk</iso-639-2T>
+    <iso-639-3>tuk</iso-639-3>
+    <iso-639-6>tuk</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Austronesian</family>
+    <name language="en">Tagalog</name>
+    <name language="tl">Wikang Tagalog, ᜏᜒᜃᜅ᜔ ᜆᜄᜎᜓᜄ᜔</name>
+    <iso-639-1>tl</iso-639-1>
+    <iso-639-2T>tgl</iso-639-2T>
+    <iso-639-3>tgl</iso-639-3>
+    <iso-639-6>tgl</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Niger–Congo</family>
+    <name language="en">Tswana</name>
+    <name language="tn">Setswana</name>
+    <iso-639-1>tn</iso-639-1>
+    <iso-639-2T>tsn</iso-639-2T>
+    <iso-639-3>tsn</iso-639-3>
+    <iso-639-6>tsn</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Austronesian</family>
+    <name language="en">Tonga (Tonga Islands)</name>
+    <name language="to">faka Tonga</name>
+    <iso-639-1>to</iso-639-1>
+    <iso-639-2T>ton</iso-639-2T>
+    <iso-639-3>ton</iso-639-3>
+    <iso-639-6>ton</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Turkic</family>
+    <name language="en">Turkish</name>
+    <name language="tr">Türkçe</name>
+    <iso-639-1>tr</iso-639-1>
+    <iso-639-2T>tur</iso-639-2T>
+    <iso-639-3>tur</iso-639-3>
+    <iso-639-6>tur</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Niger–Congo</family>
+    <name language="en">Tsonga</name>
+    <name language="ts">Xitsonga</name>
+    <iso-639-1>ts</iso-639-1>
+    <iso-639-2T>tso</iso-639-2T>
+    <iso-639-3>tso</iso-639-3>
+    <iso-639-6>tso</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Turkic</family>
+    <name language="en">Tatar</name>
+    <name language="tt">татар теле, tatar tele</name>
+    <iso-639-1>tt</iso-639-1>
+    <iso-639-2T>tat</iso-639-2T>
+    <iso-639-3>tat</iso-639-3>
+    <iso-639-6>tat</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Niger–Congo</family>
+    <name language="en">Twi</name>
+    <name language="tw">Twi</name>
+    <iso-639-1>tw</iso-639-1>
+    <iso-639-2T>twi</iso-639-2T>
+    <iso-639-3>twi</iso-639-3>
+    <iso-639-6>twi</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Austronesian</family>
+    <name language="en">Tahitian</name>
+    <name language="ty">Reo Tahiti</name>
+    <iso-639-1>ty</iso-639-1>
+    <iso-639-2T>tah</iso-639-2T>
+    <iso-639-3>tah</iso-639-3>
+    <iso-639-6>tah</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Turkic</family>
+    <name language="en">Uighur, Uyghur</name>
+    <name language="ug">Uyƣurqə, ئۇيغۇرچە‎</name>
+    <iso-639-1>ug</iso-639-1>
+    <iso-639-2T>uig</iso-639-2T>
+    <iso-639-3>uig</iso-639-3>
+    <iso-639-6>uig</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Ukrainian</name>
+    <name language="uk">українська мова</name>
+    <iso-639-1>uk</iso-639-1>
+    <iso-639-2T>ukr</iso-639-2T>
+    <iso-639-3>ukr</iso-639-3>
+    <iso-639-6>ukr</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Urdu</name>
+    <name language="ur">اردو</name>
+    <iso-639-1>ur</iso-639-1>
+    <iso-639-2T>urd</iso-639-2T>
+    <iso-639-3>urd</iso-639-3>
+    <iso-639-6>urd</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Turkic</family>
+    <name language="en">Uzbek</name>
+    <name language="uz">O'zbek, Ўзбек, أۇزبېك‎</name>
+    <iso-639-1>uz</iso-639-1>
+    <iso-639-2T>uzb</iso-639-2T>
+    <iso-639-3>uzb</iso-639-3>
+    <iso-639-6>uzb + 2</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Niger–Congo</family>
+    <name language="en">Venda</name>
+    <name language="ve">Tshivenḓa</name>
+    <iso-639-1>ve</iso-639-1>
+    <iso-639-2T>ven</iso-639-2T>
+    <iso-639-3>ven</iso-639-3>
+    <iso-639-6>ven</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Austroasiatic</family>
+    <name language="en">Vietnamese</name>
+    <name language="vi">Tiếng Việt</name>
+    <iso-639-1>vi</iso-639-1>
+    <iso-639-2T>vie</iso-639-2T>
+    <iso-639-3>vie</iso-639-3>
+    <iso-639-6>vie</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Constructed</family>
+    <name language="en">Volapük</name>
+    <name language="vo">Volapük</name>
+    <iso-639-1>vo</iso-639-1>
+    <iso-639-2T>vol</iso-639-2T>
+    <iso-639-3>vol</iso-639-3>
+    <iso-639-6>vol</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Walloon</name>
+    <name language="wa">walon</name>
+    <iso-639-1>wa</iso-639-1>
+    <iso-639-2T>wln</iso-639-2T>
+    <iso-639-3>wln</iso-639-3>
+    <iso-639-6>wln</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Welsh</name>
+    <name language="cy">Cymraeg</name>
+    <iso-639-1>cy</iso-639-1>
+    <iso-639-2T>cym</iso-639-2T>
+    <iso-639-3>wel</iso-639-3>
+    <iso-639-6>cym</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Niger–Congo</family>
+    <name language="en">Wolof</name>
+    <name language="wo">Wollof</name>
+    <iso-639-1>wo</iso-639-1>
+    <iso-639-2T>wol</iso-639-2T>
+    <iso-639-3>wol</iso-639-3>
+    <iso-639-6>wol</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Western Frisian</name>
+    <name language="fy">Frysk</name>
+    <iso-639-1>fy</iso-639-1>
+    <iso-639-2T>fry</iso-639-2T>
+    <iso-639-3>fry</iso-639-3>
+    <iso-639-6>fry</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Niger–Congo</family>
+    <name language="en">Xhosa</name>
+    <name language="xh">isiXhosa</name>
+    <iso-639-1>xh</iso-639-1>
+    <iso-639-2T>xho</iso-639-2T>
+    <iso-639-3>xho</iso-639-3>
+    <iso-639-6>xho</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Indo-European</family>
+    <name language="en">Yiddish</name>
+    <name language="yi">ייִדיש</name>
+    <iso-639-1>yi</iso-639-1>
+    <iso-639-2T>yid</iso-639-2T>
+    <iso-639-3>yid</iso-639-3>
+    <iso-639-6>yid + 2</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Niger–Congo</family>
+    <name language="en">Yoruba</name>
+    <name language="yo">Yorùbá</name>
+    <iso-639-1>yo</iso-639-1>
+    <iso-639-2T>yor</iso-639-2T>
+    <iso-639-3>yor</iso-639-3>
+    <iso-639-6>yor</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Tai–Kadai</family>
+    <name language="en">Zhuang, Chuang</name>
+    <name language="za">Saɯ cueŋƅ, Saw cuengh</name>
+    <iso-639-1>za</iso-639-1>
+    <iso-639-2T>zha</iso-639-2T>
+    <iso-639-3>zha</iso-639-3>
+    <iso-639-6>zha + 16</iso-639-6>
+    <notes/>
+  </language>
+  <language>
+    <family>Niger–Congo</family>
+    <name language="en">Zulu</name>
+    <name language="zu">isiZulu</name>
+    <iso-639-1>zu</iso-639-1>
+    <iso-639-2T>zul</iso-639-2T>
+    <iso-639-3>zul</iso-639-3>
+    <iso-639-6>zul</iso-639-6>
+    <notes/>
+  </language>
+</languages>

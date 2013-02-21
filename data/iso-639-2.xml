@@ -1,0 +1,4443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<languages>
+  <language>
+    <iso-639-2_5>aar</iso-639-2_5>
+    <iso-639-3>aar</iso-639-3>
+    <iso-639-1>aa</iso-639-1>
+    <name language="en">Afar</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>aav</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Austro-Asiatic languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>abk</iso-639-2_5>
+    <iso-639-3>abk</iso-639-3>
+    <iso-639-1>ab</iso-639-1>
+    <name language="en">Abkhazian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ace</iso-639-2_5>
+    <iso-639-3>ace</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Achinese</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ach</iso-639-2_5>
+    <iso-639-3>ach</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Acoli</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ada</iso-639-2_5>
+    <iso-639-3>ada</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Adangme</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ady</iso-639-2_5>
+    <iso-639-3>ady</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Adyghe</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>afa</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Afro-Asiatic languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>afh</iso-639-2_5>
+    <iso-639-3>afh</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Afrihili</name>
+    <scope>Individual</scope>
+    <type>Constructed</type>
+  </language>
+  <language>
+    <iso-639-2_5>afr</iso-639-2_5>
+    <iso-639-3>afr</iso-639-3>
+    <iso-639-1>af</iso-639-1>
+    <name language="en">Afrikaans</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ain</iso-639-2_5>
+    <iso-639-3>ain</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Ainu (Japan)</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>aka</iso-639-2_5>
+    <iso-639-3>aka</iso-639-3>
+    <iso-639-1>ak</iso-639-1>
+    <name language="en">Akan</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>akk</iso-639-2_5>
+    <iso-639-3>akk</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Akkadian</name>
+    <scope>Individual</scope>
+    <type>Ancient</type>
+  </language>
+  <language>
+    <iso-639-2_5>alb* / sqi</iso-639-2_5>
+    <iso-639-3>sqi</iso-639-3>
+    <iso-639-1>sq</iso-639-1>
+    <name language="en">Albanian</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ale</iso-639-2_5>
+    <iso-639-3>ale</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Aleut</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>alg</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Algonquian languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>alt</iso-639-2_5>
+    <iso-639-3>alt</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Southern Altai</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>alv</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Atlantic-Congo languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>amh</iso-639-2_5>
+    <iso-639-3>amh</iso-639-3>
+    <iso-639-1>am</iso-639-1>
+    <name language="en">Amharic</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ang</iso-639-2_5>
+    <iso-639-3>ang</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Old English (ca. 450-1100)</name>
+    <scope>Individual</scope>
+    <type>Historical</type>
+  </language>
+  <language>
+    <iso-639-2_5>anp</iso-639-2_5>
+    <iso-639-3>anp</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Angika</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>apa</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Apache languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>aqa</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Alacalufan languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>aql</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Algic languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>ara</iso-639-2_5>
+    <iso-639-3>ara</iso-639-3>
+    <iso-639-1>ar</iso-639-1>
+    <name language="en">Arabic</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>arc</iso-639-2_5>
+    <iso-639-3>arc</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Official Aramaic (700-300 BCE)</name>
+    <scope>Individual</scope>
+    <type>Ancient</type>
+  </language>
+  <language>
+    <iso-639-2_5>arg</iso-639-2_5>
+    <iso-639-3>arg</iso-639-3>
+    <iso-639-1>an</iso-639-1>
+    <name language="en">Aragonese</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>arm* / hye</iso-639-2_5>
+    <iso-639-3>hye</iso-639-3>
+    <iso-639-1>hy</iso-639-1>
+    <name language="en">Armenian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>arn</iso-639-2_5>
+    <iso-639-3>arn</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Mapudungun</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>arp</iso-639-2_5>
+    <iso-639-3>arp</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Arapaho</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>art</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Artificial languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>arw</iso-639-2_5>
+    <iso-639-3>arw</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Arawak</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>asm</iso-639-2_5>
+    <iso-639-3>asm</iso-639-3>
+    <iso-639-1>as</iso-639-1>
+    <name language="en">Assamese</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ast</iso-639-2_5>
+    <iso-639-3>ast</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Asturian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ath</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Athapascan languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>auf</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Arauan languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>aus</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Australian languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>ava</iso-639-2_5>
+    <iso-639-3>ava</iso-639-3>
+    <iso-639-1>av</iso-639-1>
+    <name language="en">Avaric</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ave</iso-639-2_5>
+    <iso-639-3>ave</iso-639-3>
+    <iso-639-1>ae</iso-639-1>
+    <name language="en">Avestan</name>
+    <scope>Individual</scope>
+    <type>Ancient</type>
+  </language>
+  <language>
+    <iso-639-2_5>awa</iso-639-2_5>
+    <iso-639-3>awa</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Awadhi</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>awd</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Arawakan languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>aym</iso-639-2_5>
+    <iso-639-3>aym</iso-639-3>
+    <iso-639-1>ay</iso-639-1>
+    <name language="en">Aymara</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>azc</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Uto-Aztecan languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>aze</iso-639-2_5>
+    <iso-639-3>aze</iso-639-3>
+    <iso-639-1>az</iso-639-1>
+    <name language="en">Azerbaijani</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>bad</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Banda languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>bai</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Bamileke languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>bak</iso-639-2_5>
+    <iso-639-3>bak</iso-639-3>
+    <iso-639-1>ba</iso-639-1>
+    <name language="en">Bashkir</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>bal</iso-639-2_5>
+    <iso-639-3>bal</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Baluchi</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>bam</iso-639-2_5>
+    <iso-639-3>bam</iso-639-3>
+    <iso-639-1>bm</iso-639-1>
+    <name language="en">Bambara</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ban</iso-639-2_5>
+    <iso-639-3>ban</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Balinese</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>baq* / eus</iso-639-2_5>
+    <iso-639-3>eus</iso-639-3>
+    <iso-639-1>eu</iso-639-1>
+    <name language="en">Basque</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>bas</iso-639-2_5>
+    <iso-639-3>bas</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Basa (Cameroon)</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>bat</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Baltic languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>bej</iso-639-2_5>
+    <iso-639-3>bej</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Beja</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>bel</iso-639-2_5>
+    <iso-639-3>bel</iso-639-3>
+    <iso-639-1>be</iso-639-1>
+    <name language="en">Belarusian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>bem</iso-639-2_5>
+    <iso-639-3>bem</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Bemba (Zambia)</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ben</iso-639-2_5>
+    <iso-639-3>ben</iso-639-3>
+    <iso-639-1>bn</iso-639-1>
+    <name language="en">Bengali</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ber</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Berber languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>bho</iso-639-2_5>
+    <iso-639-3>bho</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Bhojpuri</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>bih</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1>bh</iso-639-1>
+    <name language="en">Bihari languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>bik</iso-639-2_5>
+    <iso-639-3>bik</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Bikol</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>bin</iso-639-2_5>
+    <iso-639-3>bin</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Bini</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>bis</iso-639-2_5>
+    <iso-639-3>bis</iso-639-3>
+    <iso-639-1>bi</iso-639-1>
+    <name language="en">Bislama</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>bla</iso-639-2_5>
+    <iso-639-3>bla</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Siksika</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>bnt</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Bantu languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>bod / tib*</iso-639-2_5>
+    <iso-639-3>bod</iso-639-3>
+    <iso-639-1>bo</iso-639-1>
+    <name language="en">Tibetan</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>bos</iso-639-2_5>
+    <iso-639-3>bos</iso-639-3>
+    <iso-639-1>bs</iso-639-1>
+    <name language="en">Bosnian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>bra</iso-639-2_5>
+    <iso-639-3>bra</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Braj</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>bre</iso-639-2_5>
+    <iso-639-3>bre</iso-639-3>
+    <iso-639-1>br</iso-639-1>
+    <name language="en">Breton</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>btk</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Batak languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>bua</iso-639-2_5>
+    <iso-639-3>bua</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Buriat</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>bug</iso-639-2_5>
+    <iso-639-3>bug</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Buginese</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>bul</iso-639-2_5>
+    <iso-639-3>bul</iso-639-3>
+    <iso-639-1>bg</iso-639-1>
+    <name language="en">Bulgarian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>bur* / mya</iso-639-2_5>
+    <iso-639-3>mya</iso-639-3>
+    <iso-639-1>my</iso-639-1>
+    <name language="en">Burmese</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>byn</iso-639-2_5>
+    <iso-639-3>byn</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Bilin</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>cad</iso-639-2_5>
+    <iso-639-3>cad</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Caddo</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>cai</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Central American Indian languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>car</iso-639-2_5>
+    <iso-639-3>car</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Galibi Carib</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>cat</iso-639-2_5>
+    <iso-639-3>cat</iso-639-3>
+    <iso-639-1>ca</iso-639-1>
+    <name language="en">Catalan</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>cau</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Caucasian languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>cba</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Chibchan languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>ccn</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">North Caucasian languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>ccs</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">South Caucasian languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>cdc</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Chadic languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>cdd</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Caddoan languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>ceb</iso-639-2_5>
+    <iso-639-3>ceb</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Cebuano</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>cel</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Celtic languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>ces / cze*</iso-639-2_5>
+    <iso-639-3>ces</iso-639-3>
+    <iso-639-1>cs</iso-639-1>
+    <name language="en">Czech</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>cha</iso-639-2_5>
+    <iso-639-3>cha</iso-639-3>
+    <iso-639-1>ch</iso-639-1>
+    <name language="en">Chamorro</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>chb</iso-639-2_5>
+    <iso-639-3>chb</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Chibcha</name>
+    <scope>Individual</scope>
+    <type>Extinct</type>
+  </language>
+  <language>
+    <iso-639-2_5>che</iso-639-2_5>
+    <iso-639-3>che</iso-639-3>
+    <iso-639-1>ce</iso-639-1>
+    <name language="en">Chechen</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>chg</iso-639-2_5>
+    <iso-639-3>chg</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Chagatai</name>
+    <scope>Individual</scope>
+    <type>Extinct</type>
+  </language>
+  <language>
+    <iso-639-2_5>chi* / zho</iso-639-2_5>
+    <iso-639-3>zho</iso-639-3>
+    <iso-639-1>zh</iso-639-1>
+    <name language="en">Chinese</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>chk</iso-639-2_5>
+    <iso-639-3>chk</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Chuukese</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>chm</iso-639-2_5>
+    <iso-639-3>chm</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Mari (Russia)</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>chn</iso-639-2_5>
+    <iso-639-3>chn</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Chinook jargon</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>cho</iso-639-2_5>
+    <iso-639-3>cho</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Choctaw</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>chp</iso-639-2_5>
+    <iso-639-3>chp</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Chipewyan</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>chr</iso-639-2_5>
+    <iso-639-3>chr</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Cherokee</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>chu</iso-639-2_5>
+    <iso-639-3>chu</iso-639-3>
+    <iso-639-1>cu</iso-639-1>
+    <name language="en">Church Slavic</name>
+    <scope>Individual</scope>
+    <type>Ancient</type>
+  </language>
+  <language>
+    <iso-639-2_5>chv</iso-639-2_5>
+    <iso-639-3>chv</iso-639-3>
+    <iso-639-1>cv</iso-639-1>
+    <name language="en">Chuvash</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>chy</iso-639-2_5>
+    <iso-639-3>chy</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Cheyenne</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>cmc</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Chamic languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>cop</iso-639-2_5>
+    <iso-639-3>cop</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Coptic</name>
+    <scope>Individual</scope>
+    <type>Extinct</type>
+  </language>
+  <language>
+    <iso-639-2_5>cor</iso-639-2_5>
+    <iso-639-3>cor</iso-639-3>
+    <iso-639-1>kw</iso-639-1>
+    <name language="en">Cornish</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>cos</iso-639-2_5>
+    <iso-639-3>cos</iso-639-3>
+    <iso-639-1>co</iso-639-1>
+    <name language="en">Corsican</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>cpe</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">English based Creoles and pidgins</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>cpf</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">French-Based Creoles and pidgins</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>cpp</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Portuguese-Based Creoles and pidgins</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>cre</iso-639-2_5>
+    <iso-639-3>cre</iso-639-3>
+    <iso-639-1>cr</iso-639-1>
+    <name language="en">Cree</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>crh</iso-639-2_5>
+    <iso-639-3>crh</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Crimean Tatar</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>crp</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Creoles and pidgins</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>csb</iso-639-2_5>
+    <iso-639-3>csb</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Kashubian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>csu</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Central Sudanic languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>cus</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Cushitic languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>cym / wel*</iso-639-2_5>
+    <iso-639-3>cym</iso-639-3>
+    <iso-639-1>cy</iso-639-1>
+    <name language="en">Welsh</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>cze* / ces</iso-639-2_5>
+    <iso-639-3>ces</iso-639-3>
+    <iso-639-1>cs</iso-639-1>
+    <name language="en">Czech</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>dak</iso-639-2_5>
+    <iso-639-3>dak</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Dakota</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>dan</iso-639-2_5>
+    <iso-639-3>dan</iso-639-3>
+    <iso-639-1>da</iso-639-1>
+    <name language="en">Danish</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>dar</iso-639-2_5>
+    <iso-639-3>dar</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Dargwa</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>day</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Land Dayak languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>del</iso-639-2_5>
+    <iso-639-3>del</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Delaware</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>den</iso-639-2_5>
+    <iso-639-3>den</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Slave (Athapascan)</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>deu / ger*</iso-639-2_5>
+    <iso-639-3>deu</iso-639-3>
+    <iso-639-1>de</iso-639-1>
+    <name language="en">German</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>dgr</iso-639-2_5>
+    <iso-639-3>dgr</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Dogrib</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>din</iso-639-2_5>
+    <iso-639-3>din</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Dinka</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>div</iso-639-2_5>
+    <iso-639-3>div</iso-639-3>
+    <iso-639-1>dv</iso-639-1>
+    <name language="en">Dhivehi</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>dmn</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Mande languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>doi</iso-639-2_5>
+    <iso-639-3>doi</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Dogri (macrolanguage)</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>dra</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Dravidian languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>dsb</iso-639-2_5>
+    <iso-639-3>dsb</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Lower Sorbian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>dua</iso-639-2_5>
+    <iso-639-3>dua</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Duala</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>dum</iso-639-2_5>
+    <iso-639-3>dum</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Middle Dutch (ca. 1050-1350)</name>
+    <scope>Individual</scope>
+    <type>Historical</type>
+  </language>
+  <language>
+    <iso-639-2_5>dut* / nld</iso-639-2_5>
+    <iso-639-3>nld</iso-639-3>
+    <iso-639-1>nl</iso-639-1>
+    <name language="en">Dutch</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>dyu</iso-639-2_5>
+    <iso-639-3>dyu</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Dyula</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>dzo</iso-639-2_5>
+    <iso-639-3>dzo</iso-639-3>
+    <iso-639-1>dz</iso-639-1>
+    <name language="en">Dzongkha</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>efi</iso-639-2_5>
+    <iso-639-3>efi</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Efik</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>egx</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Egyptian languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>egy</iso-639-2_5>
+    <iso-639-3>egy</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Egyptian (Ancient)</name>
+    <scope>Individual</scope>
+    <type>Ancient</type>
+  </language>
+  <language>
+    <iso-639-2_5>eka</iso-639-2_5>
+    <iso-639-3>eka</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Ekajuk</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ell / gre*</iso-639-2_5>
+    <iso-639-3>ell</iso-639-3>
+    <iso-639-1>el</iso-639-1>
+    <name language="en">Modern Greek (1453-)</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>elx</iso-639-2_5>
+    <iso-639-3>elx</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Elamite</name>
+    <scope>Individual</scope>
+    <type>Ancient</type>
+  </language>
+  <language>
+    <iso-639-2_5>eng</iso-639-2_5>
+    <iso-639-3>eng</iso-639-3>
+    <iso-639-1>en</iso-639-1>
+    <name language="en">English</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>enm</iso-639-2_5>
+    <iso-639-3>enm</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Middle English (1100-1500)</name>
+    <scope>Individual</scope>
+    <type>Historical</type>
+  </language>
+  <language>
+    <iso-639-2_5>epo</iso-639-2_5>
+    <iso-639-3>epo</iso-639-3>
+    <iso-639-1>eo</iso-639-1>
+    <name language="en">Esperanto</name>
+    <scope>Individual</scope>
+    <type>Constructed</type>
+  </language>
+  <language>
+    <iso-639-2_5>est</iso-639-2_5>
+    <iso-639-3>est</iso-639-3>
+    <iso-639-1>et</iso-639-1>
+    <name language="en">Estonian</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>esx</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Eskimo-Aleut languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>euq</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Basque (family)</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>eus / baq*</iso-639-2_5>
+    <iso-639-3>eus</iso-639-3>
+    <iso-639-1>eu</iso-639-1>
+    <name language="en">Basque</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ewe</iso-639-2_5>
+    <iso-639-3>ewe</iso-639-3>
+    <iso-639-1>ee</iso-639-1>
+    <name language="en">Ewe</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ewo</iso-639-2_5>
+    <iso-639-3>ewo</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Ewondo</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>fan</iso-639-2_5>
+    <iso-639-3>fan</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Fang (Equatorial Guinea)</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>fao</iso-639-2_5>
+    <iso-639-3>fao</iso-639-3>
+    <iso-639-1>fo</iso-639-1>
+    <name language="en">Faroese</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>fas / per*</iso-639-2_5>
+    <iso-639-3>fas</iso-639-3>
+    <iso-639-1>fa</iso-639-1>
+    <name language="en">Persian</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>fat</iso-639-2_5>
+    <iso-639-3>fat</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Fanti</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>fij</iso-639-2_5>
+    <iso-639-3>fij</iso-639-3>
+    <iso-639-1>fj</iso-639-1>
+    <name language="en">Fijian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>fil</iso-639-2_5>
+    <iso-639-3>fil</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Filipino</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>fin</iso-639-2_5>
+    <iso-639-3>fin</iso-639-3>
+    <iso-639-1>fi</iso-639-1>
+    <name language="en">Finnish</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>fiu</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Finno-Ugrian languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>fon</iso-639-2_5>
+    <iso-639-3>fon</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Fon</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>fox</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Formosan languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>fra / fre*</iso-639-2_5>
+    <iso-639-3>fra</iso-639-3>
+    <iso-639-1>fr</iso-639-1>
+    <name language="en">French</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>fre* / fra</iso-639-2_5>
+    <iso-639-3>fra</iso-639-3>
+    <iso-639-1>fr</iso-639-1>
+    <name language="en">French</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>frm</iso-639-2_5>
+    <iso-639-3>frm</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Middle French (ca. 1400-1600)</name>
+    <scope>Individual</scope>
+    <type>Historical</type>
+  </language>
+  <language>
+    <iso-639-2_5>fro</iso-639-2_5>
+    <iso-639-3>fro</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Old French (842-ca. 1400)</name>
+    <scope>Individual</scope>
+    <type>Historical</type>
+  </language>
+  <language>
+    <iso-639-2_5>frr</iso-639-2_5>
+    <iso-639-3>frr</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Northern Frisian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>frs</iso-639-2_5>
+    <iso-639-3>frs</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Eastern Frisian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>fry</iso-639-2_5>
+    <iso-639-3>fry</iso-639-3>
+    <iso-639-1>fy</iso-639-1>
+    <name language="en">Western Frisian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ful</iso-639-2_5>
+    <iso-639-3>ful</iso-639-3>
+    <iso-639-1>ff</iso-639-1>
+    <name language="en">Fulah</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>fur</iso-639-2_5>
+    <iso-639-3>fur</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Friulian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>gaa</iso-639-2_5>
+    <iso-639-3>gaa</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Ga</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>gay</iso-639-2_5>
+    <iso-639-3>gay</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Gayo</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>gba</iso-639-2_5>
+    <iso-639-3>gba</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Gbaya (Central African Republic)</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>gem</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Germanic languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>geo* / kat</iso-639-2_5>
+    <iso-639-3>kat</iso-639-3>
+    <iso-639-1>ka</iso-639-1>
+    <name language="en">Georgian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ger* / deu</iso-639-2_5>
+    <iso-639-3>deu</iso-639-3>
+    <iso-639-1>de</iso-639-1>
+    <name language="en">German</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>gez</iso-639-2_5>
+    <iso-639-3>gez</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Geez</name>
+    <scope>Individual</scope>
+    <type>Ancient</type>
+  </language>
+  <language>
+    <iso-639-2_5>gil</iso-639-2_5>
+    <iso-639-3>gil</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Gilbertese</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>gla</iso-639-2_5>
+    <iso-639-3>gla</iso-639-3>
+    <iso-639-1>gd</iso-639-1>
+    <name language="en">Scottish Gaelic</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>gle</iso-639-2_5>
+    <iso-639-3>gle</iso-639-3>
+    <iso-639-1>ga</iso-639-1>
+    <name language="en">Irish</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>glg</iso-639-2_5>
+    <iso-639-3>glg</iso-639-3>
+    <iso-639-1>gl</iso-639-1>
+    <name language="en">Galician</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>glv</iso-639-2_5>
+    <iso-639-3>glv</iso-639-3>
+    <iso-639-1>gv</iso-639-1>
+    <name language="en">Manx</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>gme</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">East Germanic languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>gmh</iso-639-2_5>
+    <iso-639-3>gmh</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Middle High German (ca. 1050-1500)</name>
+    <scope>Individual</scope>
+    <type>Historical</type>
+  </language>
+  <language>
+    <iso-639-2_5>gmq</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">North Germanic languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>gmw</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">West Germanic languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>goh</iso-639-2_5>
+    <iso-639-3>goh</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Old High German (ca. 750-1050)</name>
+    <scope>Individual</scope>
+    <type>Historical</type>
+  </language>
+  <language>
+    <iso-639-2_5>gon</iso-639-2_5>
+    <iso-639-3>gon</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Gondi</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>gor</iso-639-2_5>
+    <iso-639-3>gor</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Gorontalo</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>got</iso-639-2_5>
+    <iso-639-3>got</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Gothic</name>
+    <scope>Individual</scope>
+    <type>Ancient</type>
+  </language>
+  <language>
+    <iso-639-2_5>grb</iso-639-2_5>
+    <iso-639-3>grb</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Grebo</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>grc</iso-639-2_5>
+    <iso-639-3>grc</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Ancient Greek (to 1453)</name>
+    <scope>Individual</scope>
+    <type>Historical</type>
+  </language>
+  <language>
+    <iso-639-2_5>gre* / ell</iso-639-2_5>
+    <iso-639-3>ell</iso-639-3>
+    <iso-639-1>el</iso-639-1>
+    <name language="en">Modern Greek (1453-)</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>grk</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Greek languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>grn</iso-639-2_5>
+    <iso-639-3>grn</iso-639-3>
+    <iso-639-1>gn</iso-639-1>
+    <name language="en">Guarani</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>gsw</iso-639-2_5>
+    <iso-639-3>gsw</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Swiss German</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>guj</iso-639-2_5>
+    <iso-639-3>guj</iso-639-3>
+    <iso-639-1>gu</iso-639-1>
+    <name language="en">Gujarati</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>gwi</iso-639-2_5>
+    <iso-639-3>gwi</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Gwichʼin</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>hai</iso-639-2_5>
+    <iso-639-3>hai</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Haida</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>hat</iso-639-2_5>
+    <iso-639-3>hat</iso-639-3>
+    <iso-639-1>ht</iso-639-1>
+    <name language="en">Haitian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>hau</iso-639-2_5>
+    <iso-639-3>hau</iso-639-3>
+    <iso-639-1>ha</iso-639-1>
+    <name language="en">Hausa</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>haw</iso-639-2_5>
+    <iso-639-3>haw</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Hawaiian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>heb</iso-639-2_5>
+    <iso-639-3>heb</iso-639-3>
+    <iso-639-1>he</iso-639-1>
+    <name language="en">Hebrew</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>her</iso-639-2_5>
+    <iso-639-3>her</iso-639-3>
+    <iso-639-1>hz</iso-639-1>
+    <name language="en">Herero</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>hil</iso-639-2_5>
+    <iso-639-3>hil</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Hiligaynon</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>him</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Himachali languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>hin</iso-639-2_5>
+    <iso-639-3>hin</iso-639-3>
+    <iso-639-1>hi</iso-639-1>
+    <name language="en">Hindi</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>hit</iso-639-2_5>
+    <iso-639-3>hit</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Hittite</name>
+    <scope>Individual</scope>
+    <type>Ancient</type>
+  </language>
+  <language>
+    <iso-639-2_5>hmn</iso-639-2_5>
+    <iso-639-3>hmn</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Hmong</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>hmo</iso-639-2_5>
+    <iso-639-3>hmo</iso-639-3>
+    <iso-639-1>ho</iso-639-1>
+    <name language="en">Hiri Motu</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>hmx</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Hmong-Mien languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>hok</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Hokan languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>hrv</iso-639-2_5>
+    <iso-639-3>hrv</iso-639-3>
+    <iso-639-1>hr</iso-639-1>
+    <name language="en">Croatian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>hsb</iso-639-2_5>
+    <iso-639-3>hsb</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Upper Sorbian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>hun</iso-639-2_5>
+    <iso-639-3>hun</iso-639-3>
+    <iso-639-1>hu</iso-639-1>
+    <name language="en">Hungarian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>hup</iso-639-2_5>
+    <iso-639-3>hup</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Hupa</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>hye / arm*</iso-639-2_5>
+    <iso-639-3>hye</iso-639-3>
+    <iso-639-1>hy</iso-639-1>
+    <name language="en">Armenian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>hyx</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Armenian (family)</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>iba</iso-639-2_5>
+    <iso-639-3>iba</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Iban</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ibo</iso-639-2_5>
+    <iso-639-3>ibo</iso-639-3>
+    <iso-639-1>ig</iso-639-1>
+    <name language="en">Igbo</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ice* / isl</iso-639-2_5>
+    <iso-639-3>isl</iso-639-3>
+    <iso-639-1>is</iso-639-1>
+    <name language="en">Icelandic</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ido</iso-639-2_5>
+    <iso-639-3>ido</iso-639-3>
+    <iso-639-1>io</iso-639-1>
+    <name language="en">Ido</name>
+    <scope>Individual</scope>
+    <type>Constructed</type>
+  </language>
+  <language>
+    <iso-639-2_5>iii</iso-639-2_5>
+    <iso-639-3>iii</iso-639-3>
+    <iso-639-1>ii</iso-639-1>
+    <name language="en">Sichuan Yi</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>iir</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Indo-Iranian languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>ijo</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Ijo languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>iku</iso-639-2_5>
+    <iso-639-3>iku</iso-639-3>
+    <iso-639-1>iu</iso-639-1>
+    <name language="en">Inuktitut</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ile</iso-639-2_5>
+    <iso-639-3>ile</iso-639-3>
+    <iso-639-1>ie</iso-639-1>
+    <name language="en">Interlingue</name>
+    <scope>Individual</scope>
+    <type>Constructed</type>
+  </language>
+  <language>
+    <iso-639-2_5>ilo</iso-639-2_5>
+    <iso-639-3>ilo</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Iloko</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ina</iso-639-2_5>
+    <iso-639-3>ina</iso-639-3>
+    <iso-639-1>ia</iso-639-1>
+    <name language="en">Interlingua (International Auxiliary Language Association)</name>
+    <scope>Individual</scope>
+    <type>Constructed</type>
+  </language>
+  <language>
+    <iso-639-2_5>inc</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Indic languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>ind</iso-639-2_5>
+    <iso-639-3>ind</iso-639-3>
+    <iso-639-1>id</iso-639-1>
+    <name language="en">Indonesian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ine</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Indo-European languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>inh</iso-639-2_5>
+    <iso-639-3>inh</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Ingush</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ipk</iso-639-2_5>
+    <iso-639-3>ipk</iso-639-3>
+    <iso-639-1>ik</iso-639-1>
+    <name language="en">Inupiaq</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ira</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Iranian languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>iro</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Iroquoian languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>isl / ice*</iso-639-2_5>
+    <iso-639-3>isl</iso-639-3>
+    <iso-639-1>is</iso-639-1>
+    <name language="en">Icelandic</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ita</iso-639-2_5>
+    <iso-639-3>ita</iso-639-3>
+    <iso-639-1>it</iso-639-1>
+    <name language="en">Italian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>itc</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Italic languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>jav</iso-639-2_5>
+    <iso-639-3>jav</iso-639-3>
+    <iso-639-1>jv</iso-639-1>
+    <name language="en">Javanese</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>jbo</iso-639-2_5>
+    <iso-639-3>jbo</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Lojban</name>
+    <scope>Individual</scope>
+    <type>Constructed</type>
+  </language>
+  <language>
+    <iso-639-2_5>jpn</iso-639-2_5>
+    <iso-639-3>jpn</iso-639-3>
+    <iso-639-1>ja</iso-639-1>
+    <name language="en">Japanese</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>jpr</iso-639-2_5>
+    <iso-639-3>jpr</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Judeo-Persian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>jpx</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Japanese (family)</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>jrb</iso-639-2_5>
+    <iso-639-3>jrb</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Judeo-Arabic</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>kaa</iso-639-2_5>
+    <iso-639-3>kaa</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Kara-Kalpak</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>kab</iso-639-2_5>
+    <iso-639-3>kab</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Kabyle</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>kac</iso-639-2_5>
+    <iso-639-3>kac</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Kachin</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>kal</iso-639-2_5>
+    <iso-639-3>kal</iso-639-3>
+    <iso-639-1>kl</iso-639-1>
+    <name language="en">Kalaallisut</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>kam</iso-639-2_5>
+    <iso-639-3>kam</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Kamba (Kenya)</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>kan</iso-639-2_5>
+    <iso-639-3>kan</iso-639-3>
+    <iso-639-1>kn</iso-639-1>
+    <name language="en">Kannada</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>kar</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Karen languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>kas</iso-639-2_5>
+    <iso-639-3>kas</iso-639-3>
+    <iso-639-1>ks</iso-639-1>
+    <name language="en">Kashmiri</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>kat / geo*</iso-639-2_5>
+    <iso-639-3>kat</iso-639-3>
+    <iso-639-1>ka</iso-639-1>
+    <name language="en">Georgian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>kau</iso-639-2_5>
+    <iso-639-3>kau</iso-639-3>
+    <iso-639-1>kr</iso-639-1>
+    <name language="en">Kanuri</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>kaw</iso-639-2_5>
+    <iso-639-3>kaw</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Kawi</name>
+    <scope>Individual</scope>
+    <type>Ancient</type>
+  </language>
+  <language>
+    <iso-639-2_5>kaz</iso-639-2_5>
+    <iso-639-3>kaz</iso-639-3>
+    <iso-639-1>kk</iso-639-1>
+    <name language="en">Kazakh</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>kbd</iso-639-2_5>
+    <iso-639-3>kbd</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Kabardian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>kdo</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Kordofanian languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>kha</iso-639-2_5>
+    <iso-639-3>kha</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Khasi</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>khi</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Khoisan languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>khm</iso-639-2_5>
+    <iso-639-3>khm</iso-639-3>
+    <iso-639-1>km</iso-639-1>
+    <name language="en">Central Khmer</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>kho</iso-639-2_5>
+    <iso-639-3>kho</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Khotanese</name>
+    <scope>Individual</scope>
+    <type>Ancient</type>
+  </language>
+  <language>
+    <iso-639-2_5>kik</iso-639-2_5>
+    <iso-639-3>kik</iso-639-3>
+    <iso-639-1>ki</iso-639-1>
+    <name language="en">Kikuyu</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>kin</iso-639-2_5>
+    <iso-639-3>kin</iso-639-3>
+    <iso-639-1>rw</iso-639-1>
+    <name language="en">Kinyarwanda</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>kir</iso-639-2_5>
+    <iso-639-3>kir</iso-639-3>
+    <iso-639-1>ky</iso-639-1>
+    <name language="en">Kirghiz</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>kmb</iso-639-2_5>
+    <iso-639-3>kmb</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Kimbundu</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>kok</iso-639-2_5>
+    <iso-639-3>kok</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Konkani (macrolanguage)</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>kom</iso-639-2_5>
+    <iso-639-3>kom</iso-639-3>
+    <iso-639-1>kv</iso-639-1>
+    <name language="en">Komi</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>kon</iso-639-2_5>
+    <iso-639-3>kon</iso-639-3>
+    <iso-639-1>kg</iso-639-1>
+    <name language="en">Kongo</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>kor</iso-639-2_5>
+    <iso-639-3>kor</iso-639-3>
+    <iso-639-1>ko</iso-639-1>
+    <name language="en">Korean</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>kos</iso-639-2_5>
+    <iso-639-3>kos</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Kosraean</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>kpe</iso-639-2_5>
+    <iso-639-3>kpe</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Kpelle</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>krc</iso-639-2_5>
+    <iso-639-3>krc</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Karachay-Balkar</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>krl</iso-639-2_5>
+    <iso-639-3>krl</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Karelian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>kro</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Kru languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>kru</iso-639-2_5>
+    <iso-639-3>kru</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Kurukh</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>kua</iso-639-2_5>
+    <iso-639-3>kua</iso-639-3>
+    <iso-639-1>kj</iso-639-1>
+    <name language="en">Kuanyama</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>kum</iso-639-2_5>
+    <iso-639-3>kum</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Kumyk</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>kur</iso-639-2_5>
+    <iso-639-3>kur</iso-639-3>
+    <iso-639-1>ku</iso-639-1>
+    <name language="en">Kurdish</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>kut</iso-639-2_5>
+    <iso-639-3>kut</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Kutenai</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>lad</iso-639-2_5>
+    <iso-639-3>lad</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Ladino</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>lah</iso-639-2_5>
+    <iso-639-3>lah</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Lahnda</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>lam</iso-639-2_5>
+    <iso-639-3>lam</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Lamba</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>lao</iso-639-2_5>
+    <iso-639-3>lao</iso-639-3>
+    <iso-639-1>lo</iso-639-1>
+    <name language="en">Lao</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>lat</iso-639-2_5>
+    <iso-639-3>lat</iso-639-3>
+    <iso-639-1>la</iso-639-1>
+    <name language="en">Latin</name>
+    <scope>Individual</scope>
+    <type>Ancient</type>
+  </language>
+  <language>
+    <iso-639-2_5>lav</iso-639-2_5>
+    <iso-639-3>lav</iso-639-3>
+    <iso-639-1>lv</iso-639-1>
+    <name language="en">Latvian</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>lez</iso-639-2_5>
+    <iso-639-3>lez</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Lezghian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>lim</iso-639-2_5>
+    <iso-639-3>lim</iso-639-3>
+    <iso-639-1>li</iso-639-1>
+    <name language="en">Limburgan</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>lin</iso-639-2_5>
+    <iso-639-3>lin</iso-639-3>
+    <iso-639-1>ln</iso-639-1>
+    <name language="en">Lingala</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>lit</iso-639-2_5>
+    <iso-639-3>lit</iso-639-3>
+    <iso-639-1>lt</iso-639-1>
+    <name language="en">Lithuanian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>lol</iso-639-2_5>
+    <iso-639-3>lol</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Mongo</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>loz</iso-639-2_5>
+    <iso-639-3>loz</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Lozi</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ltz</iso-639-2_5>
+    <iso-639-3>ltz</iso-639-3>
+    <iso-639-1>lb</iso-639-1>
+    <name language="en">Luxembourgish</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>lua</iso-639-2_5>
+    <iso-639-3>lua</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Luba-Lulua</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>lub</iso-639-2_5>
+    <iso-639-3>lub</iso-639-3>
+    <iso-639-1>lu</iso-639-1>
+    <name language="en">Luba-Katanga</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>lug</iso-639-2_5>
+    <iso-639-3>lug</iso-639-3>
+    <iso-639-1>lg</iso-639-1>
+    <name language="en">Ganda</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>lui</iso-639-2_5>
+    <iso-639-3>lui</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Luiseno</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>lun</iso-639-2_5>
+    <iso-639-3>lun</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Lunda</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>luo</iso-639-2_5>
+    <iso-639-3>luo</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Luo (Kenya and Tanzania)</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>lus</iso-639-2_5>
+    <iso-639-3>lus</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Lushai</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>mac* / mkd</iso-639-2_5>
+    <iso-639-3>mkd</iso-639-3>
+    <iso-639-1>mk</iso-639-1>
+    <name language="en">Macedonian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>mad</iso-639-2_5>
+    <iso-639-3>mad</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Madurese</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>mag</iso-639-2_5>
+    <iso-639-3>mag</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Magahi</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>mah</iso-639-2_5>
+    <iso-639-3>mah</iso-639-3>
+    <iso-639-1>mh</iso-639-1>
+    <name language="en">Marshallese</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>mai</iso-639-2_5>
+    <iso-639-3>mai</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Maithili</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>mak</iso-639-2_5>
+    <iso-639-3>mak</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Makasar</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>mal</iso-639-2_5>
+    <iso-639-3>mal</iso-639-3>
+    <iso-639-1>ml</iso-639-1>
+    <name language="en">Malayalam</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>man</iso-639-2_5>
+    <iso-639-3>man</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Mandingo</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>mao* / mri</iso-639-2_5>
+    <iso-639-3>mri</iso-639-3>
+    <iso-639-1>mi</iso-639-1>
+    <name language="en">Maori</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>map</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Austronesian languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>mar</iso-639-2_5>
+    <iso-639-3>mar</iso-639-3>
+    <iso-639-1>mr</iso-639-1>
+    <name language="en">Marathi</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>mas</iso-639-2_5>
+    <iso-639-3>mas</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Masai</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>may* / msa</iso-639-2_5>
+    <iso-639-3>msa</iso-639-3>
+    <iso-639-1>ms</iso-639-1>
+    <name language="en">Malay (macrolanguage)</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>mdf</iso-639-2_5>
+    <iso-639-3>mdf</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Moksha</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>mdr</iso-639-2_5>
+    <iso-639-3>mdr</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Mandar</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>men</iso-639-2_5>
+    <iso-639-3>men</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Mende (Sierra Leone)</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>mga</iso-639-2_5>
+    <iso-639-3>mga</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Middle Irish (900-1200)</name>
+    <scope>Individual</scope>
+    <type>Historical</type>
+  </language>
+  <language>
+    <iso-639-2_5>mic</iso-639-2_5>
+    <iso-639-3>mic</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Mi'kmaq</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>min</iso-639-2_5>
+    <iso-639-3>min</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Minangkabau</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>mis</iso-639-2_5>
+    <iso-639-3>mis</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Uncoded languages</name>
+    <scope>Special</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>mkd / mac*</iso-639-2_5>
+    <iso-639-3>mkd</iso-639-3>
+    <iso-639-1>mk</iso-639-1>
+    <name language="en">Macedonian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>mkh</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Mon-Khmer languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>mlg</iso-639-2_5>
+    <iso-639-3>mlg</iso-639-3>
+    <iso-639-1>mg</iso-639-1>
+    <name language="en">Malagasy</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>mlt</iso-639-2_5>
+    <iso-639-3>mlt</iso-639-3>
+    <iso-639-1>mt</iso-639-1>
+    <name language="en">Maltese</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>mnc</iso-639-2_5>
+    <iso-639-3>mnc</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Manchu</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>mni</iso-639-2_5>
+    <iso-639-3>mni</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Manipuri</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>mno</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Manobo languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>moh</iso-639-2_5>
+    <iso-639-3>moh</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Mohawk</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>mon</iso-639-2_5>
+    <iso-639-3>mon</iso-639-3>
+    <iso-639-1>mn</iso-639-1>
+    <name language="en">Mongolian</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>mos</iso-639-2_5>
+    <iso-639-3>mos</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Mossi</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>mri / mao*</iso-639-2_5>
+    <iso-639-3>mri</iso-639-3>
+    <iso-639-1>mi</iso-639-1>
+    <name language="en">Maori</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>msa / may*</iso-639-2_5>
+    <iso-639-3>msa</iso-639-3>
+    <iso-639-1>ms</iso-639-1>
+    <name language="en">Malay (macrolanguage)</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>mul</iso-639-2_5>
+    <iso-639-3>mul</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Multiple languages</name>
+    <scope>Special</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>mun</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Munda languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>mus</iso-639-2_5>
+    <iso-639-3>mus</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Creek</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>mwl</iso-639-2_5>
+    <iso-639-3>mwl</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Mirandese</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>mwr</iso-639-2_5>
+    <iso-639-3>mwr</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Marwari</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>mya / bur*</iso-639-2_5>
+    <iso-639-3>mya</iso-639-3>
+    <iso-639-1>my</iso-639-1>
+    <name language="en">Burmese</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>myn</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Mayan languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>myv</iso-639-2_5>
+    <iso-639-3>myv</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Erzya</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>nah</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Nahuatl languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>nai</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">North American Indian</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>nap</iso-639-2_5>
+    <iso-639-3>nap</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Neapolitan</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>nau</iso-639-2_5>
+    <iso-639-3>nau</iso-639-3>
+    <iso-639-1>na</iso-639-1>
+    <name language="en">Nauru</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>nav</iso-639-2_5>
+    <iso-639-3>nav</iso-639-3>
+    <iso-639-1>nv</iso-639-1>
+    <name language="en">Navajo</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>nbl</iso-639-2_5>
+    <iso-639-3>nbl</iso-639-3>
+    <iso-639-1>nr</iso-639-1>
+    <name language="en">South Ndebele</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>nde</iso-639-2_5>
+    <iso-639-3>nde</iso-639-3>
+    <iso-639-1>nd</iso-639-1>
+    <name language="en">North Ndebele</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ndo</iso-639-2_5>
+    <iso-639-3>ndo</iso-639-3>
+    <iso-639-1>ng</iso-639-1>
+    <name language="en">Ndonga</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>nds</iso-639-2_5>
+    <iso-639-3>nds</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Low German</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>nep</iso-639-2_5>
+    <iso-639-3>nep</iso-639-3>
+    <iso-639-1>ne</iso-639-1>
+    <name language="en">Nepali (macrolanguage)</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>new</iso-639-2_5>
+    <iso-639-3>new</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Newari</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ngf</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Trans-New Guinea languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>nia</iso-639-2_5>
+    <iso-639-3>nia</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Nias</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>nic</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Niger-Kordofanian languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>niu</iso-639-2_5>
+    <iso-639-3>niu</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Niuean</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>nld / dut*</iso-639-2_5>
+    <iso-639-3>nld</iso-639-3>
+    <iso-639-1>nl</iso-639-1>
+    <name language="en">Dutch</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>nno</iso-639-2_5>
+    <iso-639-3>nno</iso-639-3>
+    <iso-639-1>nn</iso-639-1>
+    <name language="en">Norwegian Nynorsk</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>nob</iso-639-2_5>
+    <iso-639-3>nob</iso-639-3>
+    <iso-639-1>nb</iso-639-1>
+    <name language="en">Norwegian Bokmål</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>nog</iso-639-2_5>
+    <iso-639-3>nog</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Nogai</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>non</iso-639-2_5>
+    <iso-639-3>non</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Old Norse</name>
+    <scope>Individual</scope>
+    <type>Historical</type>
+  </language>
+  <language>
+    <iso-639-2_5>nor</iso-639-2_5>
+    <iso-639-3>nor</iso-639-3>
+    <iso-639-1>no</iso-639-1>
+    <name language="en">Norwegian</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>nqo</iso-639-2_5>
+    <iso-639-3>nqo</iso-639-3>
+    <iso-639-1/>
+    <name language="en">N'Ko</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>nso</iso-639-2_5>
+    <iso-639-3>nso</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Pedi</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>nub</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Nubian languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>nwc</iso-639-2_5>
+    <iso-639-3>nwc</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Classical Newari</name>
+    <scope>Individual</scope>
+    <type>Historical</type>
+  </language>
+  <language>
+    <iso-639-2_5>nya</iso-639-2_5>
+    <iso-639-3>nya</iso-639-3>
+    <iso-639-1>ny</iso-639-1>
+    <name language="en">Nyanja</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>nym</iso-639-2_5>
+    <iso-639-3>nym</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Nyamwezi</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>nyn</iso-639-2_5>
+    <iso-639-3>nyn</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Nyankole</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>nyo</iso-639-2_5>
+    <iso-639-3>nyo</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Nyoro</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>nzi</iso-639-2_5>
+    <iso-639-3>nzi</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Nzima</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>oci</iso-639-2_5>
+    <iso-639-3>oci</iso-639-3>
+    <iso-639-1>oc</iso-639-1>
+    <name language="en">Occitan (post 1500)</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>oji</iso-639-2_5>
+    <iso-639-3>oji</iso-639-3>
+    <iso-639-1>oj</iso-639-1>
+    <name language="en">Ojibwa</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>omq</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Oto-Manguean languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>omv</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Omotic languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>ori</iso-639-2_5>
+    <iso-639-3>ori</iso-639-3>
+    <iso-639-1>or</iso-639-1>
+    <name language="en">Oriya (macrolanguage)</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>orm</iso-639-2_5>
+    <iso-639-3>orm</iso-639-3>
+    <iso-639-1>om</iso-639-1>
+    <name language="en">Oromo</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>osa</iso-639-2_5>
+    <iso-639-3>osa</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Osage</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>oss</iso-639-2_5>
+    <iso-639-3>oss</iso-639-3>
+    <iso-639-1>os</iso-639-1>
+    <name language="en">Ossetian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ota</iso-639-2_5>
+    <iso-639-3>ota</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Ottoman Turkish (1500-1928)</name>
+    <scope>Individual</scope>
+    <type>Historical</type>
+  </language>
+  <language>
+    <iso-639-2_5>oto</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Otomian languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>paa</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Papuan languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>pag</iso-639-2_5>
+    <iso-639-3>pag</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Pangasinan</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>pal</iso-639-2_5>
+    <iso-639-3>pal</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Pahlavi</name>
+    <scope>Individual</scope>
+    <type>Ancient</type>
+  </language>
+  <language>
+    <iso-639-2_5>pam</iso-639-2_5>
+    <iso-639-3>pam</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Pampanga</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>pan</iso-639-2_5>
+    <iso-639-3>pan</iso-639-3>
+    <iso-639-1>pa</iso-639-1>
+    <name language="en">Panjabi</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>pap</iso-639-2_5>
+    <iso-639-3>pap</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Papiamento</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>pau</iso-639-2_5>
+    <iso-639-3>pau</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Palauan</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>peo</iso-639-2_5>
+    <iso-639-3>peo</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Old Persian (ca. 600-400 B.C.)</name>
+    <scope>Individual</scope>
+    <type>Historical</type>
+  </language>
+  <language>
+    <iso-639-2_5>per* / fas</iso-639-2_5>
+    <iso-639-3>fas</iso-639-3>
+    <iso-639-1>fa</iso-639-1>
+    <name language="en">Persian</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>phi</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Philippine languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>phn</iso-639-2_5>
+    <iso-639-3>phn</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Phoenician</name>
+    <scope>Individual</scope>
+    <type>Ancient</type>
+  </language>
+  <language>
+    <iso-639-2_5>plf</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Central Malayo-Polynesian languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>pli</iso-639-2_5>
+    <iso-639-3>pli</iso-639-3>
+    <iso-639-1>pi</iso-639-1>
+    <name language="en">Pali</name>
+    <scope>Individual</scope>
+    <type>Ancient</type>
+  </language>
+  <language>
+    <iso-639-2_5>pol</iso-639-2_5>
+    <iso-639-3>pol</iso-639-3>
+    <iso-639-1>pl</iso-639-1>
+    <name language="en">Polish</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>pon</iso-639-2_5>
+    <iso-639-3>pon</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Pohnpeian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>por</iso-639-2_5>
+    <iso-639-3>por</iso-639-3>
+    <iso-639-1>pt</iso-639-1>
+    <name language="en">Portuguese</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>poz</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Malayo-Polynesian languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>pqe</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Eastern Malayo-Polynesian languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>pqw</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Western Malayo-Polynesian languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>pra</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Prakrit languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>pro</iso-639-2_5>
+    <iso-639-3>pro</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Old Provençal (to 1500)</name>
+    <scope>Individual</scope>
+    <type>Historical</type>
+  </language>
+  <language>
+    <iso-639-2_5>pus</iso-639-2_5>
+    <iso-639-3>pus</iso-639-3>
+    <iso-639-1>ps</iso-639-1>
+    <name language="en">Pushto</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>qaa-qtz</iso-639-2_5>
+    <iso-639-3>qaa-qtz</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Reserved for local use</name>
+    <scope>Local</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>que</iso-639-2_5>
+    <iso-639-3>que</iso-639-3>
+    <iso-639-1>qu</iso-639-1>
+    <name language="en">Quechua</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>qwe</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Quechuan (family)</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>raj</iso-639-2_5>
+    <iso-639-3>raj</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Rajasthani</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>rap</iso-639-2_5>
+    <iso-639-3>rap</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Rapanui</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>rar</iso-639-2_5>
+    <iso-639-3>rar</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Rarotongan</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>roa</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Romance languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>roh</iso-639-2_5>
+    <iso-639-3>roh</iso-639-3>
+    <iso-639-1>rm</iso-639-1>
+    <name language="en">Romansh</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>rom</iso-639-2_5>
+    <iso-639-3>rom</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Romany</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ron / rum*</iso-639-2_5>
+    <iso-639-3>ron</iso-639-3>
+    <iso-639-1>ro</iso-639-1>
+    <name language="en">Romanian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>rum* / ron</iso-639-2_5>
+    <iso-639-3>ron</iso-639-3>
+    <iso-639-1>ro</iso-639-1>
+    <name language="en">Romanian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>run</iso-639-2_5>
+    <iso-639-3>run</iso-639-3>
+    <iso-639-1>rn</iso-639-1>
+    <name language="en">Rundi</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>rup</iso-639-2_5>
+    <iso-639-3>rup</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Macedo-Romanian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>rus</iso-639-2_5>
+    <iso-639-3>rus</iso-639-3>
+    <iso-639-1>ru</iso-639-1>
+    <name language="en">Russian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>sad</iso-639-2_5>
+    <iso-639-3>sad</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Sandawe</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>sag</iso-639-2_5>
+    <iso-639-3>sag</iso-639-3>
+    <iso-639-1>sg</iso-639-1>
+    <name language="en">Sango</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>sah</iso-639-2_5>
+    <iso-639-3>sah</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Yakut</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>sai</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">South American Indian languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>sal</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Salishan languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>sam</iso-639-2_5>
+    <iso-639-3>sam</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Samaritan Aramaic</name>
+    <scope>Individual</scope>
+    <type>Extinct</type>
+  </language>
+  <language>
+    <iso-639-2_5>san</iso-639-2_5>
+    <iso-639-3>san</iso-639-3>
+    <iso-639-1>sa</iso-639-1>
+    <name language="en">Sanskrit</name>
+    <scope>Individual</scope>
+    <type>Ancient</type>
+  </language>
+  <language>
+    <iso-639-2_5>sas</iso-639-2_5>
+    <iso-639-3>sas</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Sasak</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>sat</iso-639-2_5>
+    <iso-639-3>sat</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Santali</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>scn</iso-639-2_5>
+    <iso-639-3>scn</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Sicilian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>sco</iso-639-2_5>
+    <iso-639-3>sco</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Scots</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>sdv</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Eastern Sudanic languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>sel</iso-639-2_5>
+    <iso-639-3>sel</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Selkup</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>sem</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Semitic languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>sga</iso-639-2_5>
+    <iso-639-3>sga</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Old Irish (to 900)</name>
+    <scope>Individual</scope>
+    <type>Historical</type>
+  </language>
+  <language>
+    <iso-639-2_5>sgn</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Sign languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>shn</iso-639-2_5>
+    <iso-639-3>shn</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Shan</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>sid</iso-639-2_5>
+    <iso-639-3>sid</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Sidamo</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>sin</iso-639-2_5>
+    <iso-639-3>sin</iso-639-3>
+    <iso-639-1>si</iso-639-1>
+    <name language="en">Sinhala</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>sio</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Siouan languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>sit</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Sino-Tibetan languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>sla</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Slavic languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>slo* / slk</iso-639-2_5>
+    <iso-639-3>slk</iso-639-3>
+    <iso-639-1>sk</iso-639-1>
+    <name language="en">Slovak</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>slk / slo*</iso-639-2_5>
+    <iso-639-3>slk</iso-639-3>
+    <iso-639-1>sk</iso-639-1>
+    <name language="en">Slovak</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>slv</iso-639-2_5>
+    <iso-639-3>slv</iso-639-3>
+    <iso-639-1>sl</iso-639-1>
+    <name language="en">Slovenian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>sma</iso-639-2_5>
+    <iso-639-3>sma</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Southern Sami</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>sme</iso-639-2_5>
+    <iso-639-3>sme</iso-639-3>
+    <iso-639-1>se</iso-639-1>
+    <name language="en">Northern Sami</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>smi</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Sami languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>smj</iso-639-2_5>
+    <iso-639-3>smj</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Lule Sami</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>smn</iso-639-2_5>
+    <iso-639-3>smn</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Inari Sami</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>smo</iso-639-2_5>
+    <iso-639-3>smo</iso-639-3>
+    <iso-639-1>sm</iso-639-1>
+    <name language="en">Samoan</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>sms</iso-639-2_5>
+    <iso-639-3>sms</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Skolt Sami</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>sna</iso-639-2_5>
+    <iso-639-3>sna</iso-639-3>
+    <iso-639-1>sn</iso-639-1>
+    <name language="en">Shona</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>snd</iso-639-2_5>
+    <iso-639-3>snd</iso-639-3>
+    <iso-639-1>sd</iso-639-1>
+    <name language="en">Sindhi</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>snk</iso-639-2_5>
+    <iso-639-3>snk</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Soninke</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>sog</iso-639-2_5>
+    <iso-639-3>sog</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Sogdian</name>
+    <scope>Individual</scope>
+    <type>Ancient</type>
+  </language>
+  <language>
+    <iso-639-2_5>som</iso-639-2_5>
+    <iso-639-3>som</iso-639-3>
+    <iso-639-1>so</iso-639-1>
+    <name language="en">Somali</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>son</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Songhai languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>sot</iso-639-2_5>
+    <iso-639-3>sot</iso-639-3>
+    <iso-639-1>st</iso-639-1>
+    <name language="en">Southern Sotho</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>spa</iso-639-2_5>
+    <iso-639-3>spa</iso-639-3>
+    <iso-639-1>es</iso-639-1>
+    <name language="en">Spanish</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>sqi / alb*</iso-639-2_5>
+    <iso-639-3>sqi</iso-639-3>
+    <iso-639-1>sq</iso-639-1>
+    <name language="en">Albanian</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>sqj</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Albanian languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>srd</iso-639-2_5>
+    <iso-639-3>srd</iso-639-3>
+    <iso-639-1>sc</iso-639-1>
+    <name language="en">Sardinian</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>srn</iso-639-2_5>
+    <iso-639-3>srn</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Sranan Tongo</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>srp</iso-639-2_5>
+    <iso-639-3>srp</iso-639-3>
+    <iso-639-1>sr</iso-639-1>
+    <name language="en">Serbian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>srr</iso-639-2_5>
+    <iso-639-3>srr</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Serer</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ssa</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Nilo-Saharan languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>ssw</iso-639-2_5>
+    <iso-639-3>ssw</iso-639-3>
+    <iso-639-1>ss</iso-639-1>
+    <name language="en">Swati</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>suk</iso-639-2_5>
+    <iso-639-3>suk</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Sukuma</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>sun</iso-639-2_5>
+    <iso-639-3>sun</iso-639-3>
+    <iso-639-1>su</iso-639-1>
+    <name language="en">Sundanese</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>sus</iso-639-2_5>
+    <iso-639-3>sus</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Susu</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>sux</iso-639-2_5>
+    <iso-639-3>sux</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Sumerian</name>
+    <scope>Individual</scope>
+    <type>Ancient</type>
+  </language>
+  <language>
+    <iso-639-2_5>swa</iso-639-2_5>
+    <iso-639-3>swa</iso-639-3>
+    <iso-639-1>sw</iso-639-1>
+    <name language="en">Swahili (macrolanguage)</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>swe</iso-639-2_5>
+    <iso-639-3>swe</iso-639-3>
+    <iso-639-1>sv</iso-639-1>
+    <name language="en">Swedish</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>syc</iso-639-2_5>
+    <iso-639-3>syc</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Classical Syriac</name>
+    <scope>Individual</scope>
+    <type>Historical</type>
+  </language>
+  <language>
+    <iso-639-2_5>syd</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Samoyedic languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>syr</iso-639-2_5>
+    <iso-639-3>syr</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Syriac</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>tah</iso-639-2_5>
+    <iso-639-3>tah</iso-639-3>
+    <iso-639-1>ty</iso-639-1>
+    <name language="en">Tahitian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>tai</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Tai languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>tam</iso-639-2_5>
+    <iso-639-3>tam</iso-639-3>
+    <iso-639-1>ta</iso-639-1>
+    <name language="en">Tamil</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>tat</iso-639-2_5>
+    <iso-639-3>tat</iso-639-3>
+    <iso-639-1>tt</iso-639-1>
+    <name language="en">Tatar</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>tbq</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Tibeto-Burman languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>tel</iso-639-2_5>
+    <iso-639-3>tel</iso-639-3>
+    <iso-639-1>te</iso-639-1>
+    <name language="en">Telugu</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>tem</iso-639-2_5>
+    <iso-639-3>tem</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Timne</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ter</iso-639-2_5>
+    <iso-639-3>ter</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Tereno</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>tet</iso-639-2_5>
+    <iso-639-3>tet</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Tetum</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>tgk</iso-639-2_5>
+    <iso-639-3>tgk</iso-639-3>
+    <iso-639-1>tg</iso-639-1>
+    <name language="en">Tajik</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>tgl</iso-639-2_5>
+    <iso-639-3>tgl</iso-639-3>
+    <iso-639-1>tl</iso-639-1>
+    <name language="en">Tagalog</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>tha</iso-639-2_5>
+    <iso-639-3>tha</iso-639-3>
+    <iso-639-1>th</iso-639-1>
+    <name language="en">Thai</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>tib* / bod</iso-639-2_5>
+    <iso-639-3>bod</iso-639-3>
+    <iso-639-1>bo</iso-639-1>
+    <name language="en">Tibetan</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>tig</iso-639-2_5>
+    <iso-639-3>tig</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Tigre</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>tir</iso-639-2_5>
+    <iso-639-3>tir</iso-639-3>
+    <iso-639-1>ti</iso-639-1>
+    <name language="en">Tigrinya</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>tiv</iso-639-2_5>
+    <iso-639-3>tiv</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Tiv</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>tkl</iso-639-2_5>
+    <iso-639-3>tkl</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Tokelau</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>tlh</iso-639-2_5>
+    <iso-639-3>tlh</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Klingon</name>
+    <scope>Individual</scope>
+    <type>Constructed</type>
+  </language>
+  <language>
+    <iso-639-2_5>tli</iso-639-2_5>
+    <iso-639-3>tli</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Tlingit</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>tmh</iso-639-2_5>
+    <iso-639-3>tmh</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Tamashek</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>tog</iso-639-2_5>
+    <iso-639-3>tog</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Tonga (Nyasa)</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ton</iso-639-2_5>
+    <iso-639-3>ton</iso-639-3>
+    <iso-639-1>to</iso-639-1>
+    <name language="en">Tonga (Tonga Islands)</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>tpi</iso-639-2_5>
+    <iso-639-3>tpi</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Tok Pisin</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>trk</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Turkic languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>tsi</iso-639-2_5>
+    <iso-639-3>tsi</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Tsimshian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>tsn</iso-639-2_5>
+    <iso-639-3>tsn</iso-639-3>
+    <iso-639-1>tn</iso-639-1>
+    <name language="en">Tswana</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>tso</iso-639-2_5>
+    <iso-639-3>tso</iso-639-3>
+    <iso-639-1>ts</iso-639-1>
+    <name language="en">Tsonga</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>tuk</iso-639-2_5>
+    <iso-639-3>tuk</iso-639-3>
+    <iso-639-1>tk</iso-639-1>
+    <name language="en">Turkmen</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>tum</iso-639-2_5>
+    <iso-639-3>tum</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Tumbuka</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>tup</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Tupi languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>tur</iso-639-2_5>
+    <iso-639-3>tur</iso-639-3>
+    <iso-639-1>tr</iso-639-1>
+    <name language="en">Turkish</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>tut</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Altaic languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>tuw</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Tungus languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>tvl</iso-639-2_5>
+    <iso-639-3>tvl</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Tuvalu</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>twi</iso-639-2_5>
+    <iso-639-3>twi</iso-639-3>
+    <iso-639-1>tw</iso-639-1>
+    <name language="en">Twi</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>tyv</iso-639-2_5>
+    <iso-639-3>tyv</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Tuvinian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>udm</iso-639-2_5>
+    <iso-639-3>udm</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Udmurt</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>uga</iso-639-2_5>
+    <iso-639-3>uga</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Ugaritic</name>
+    <scope>Individual</scope>
+    <type>Ancient</type>
+  </language>
+  <language>
+    <iso-639-2_5>uig</iso-639-2_5>
+    <iso-639-3>uig</iso-639-3>
+    <iso-639-1>ug</iso-639-1>
+    <name language="en">Uighur</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ukr</iso-639-2_5>
+    <iso-639-3>ukr</iso-639-3>
+    <iso-639-1>uk</iso-639-1>
+    <name language="en">Ukrainian</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>umb</iso-639-2_5>
+    <iso-639-3>umb</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Umbundu</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>und</iso-639-2_5>
+    <iso-639-3>und</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Undetermined</name>
+    <scope>Special</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>urd</iso-639-2_5>
+    <iso-639-3>urd</iso-639-3>
+    <iso-639-1>ur</iso-639-1>
+    <name language="en">Urdu</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>urj</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Uralic languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>uzb</iso-639-2_5>
+    <iso-639-3>uzb</iso-639-3>
+    <iso-639-1>uz</iso-639-1>
+    <name language="en">Uzbek</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>vai</iso-639-2_5>
+    <iso-639-3>vai</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Vai</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ven</iso-639-2_5>
+    <iso-639-3>ven</iso-639-3>
+    <iso-639-1>ve</iso-639-1>
+    <name language="en">Venda</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>vie</iso-639-2_5>
+    <iso-639-3>vie</iso-639-3>
+    <iso-639-1>vi</iso-639-1>
+    <name language="en">Vietnamese</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>vol</iso-639-2_5>
+    <iso-639-3>vol</iso-639-3>
+    <iso-639-1>vo</iso-639-1>
+    <name language="en">Volapük</name>
+    <scope>Individual</scope>
+    <type>Constructed</type>
+  </language>
+  <language>
+    <iso-639-2_5>vot</iso-639-2_5>
+    <iso-639-3>vot</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Votic</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>wak</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Wakashan languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>wal</iso-639-2_5>
+    <iso-639-3>wal</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Wolaytta</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>war</iso-639-2_5>
+    <iso-639-3>war</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Waray (Philippines)</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>was</iso-639-2_5>
+    <iso-639-3>was</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Washo</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>wel* / cym</iso-639-2_5>
+    <iso-639-3>cym</iso-639-3>
+    <iso-639-1>cy</iso-639-1>
+    <name language="en">Welsh</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>wen</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Sorbian languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>wln</iso-639-2_5>
+    <iso-639-3>wln</iso-639-3>
+    <iso-639-1>wa</iso-639-1>
+    <name language="en">Walloon</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>wol</iso-639-2_5>
+    <iso-639-3>wol</iso-639-3>
+    <iso-639-1>wo</iso-639-1>
+    <name language="en">Wolof</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>xal</iso-639-2_5>
+    <iso-639-3>xal</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Kalmyk</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>xgn</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Mongolian languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>xho</iso-639-2_5>
+    <iso-639-3>xho</iso-639-3>
+    <iso-639-1>xh</iso-639-1>
+    <name language="en">Xhosa</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>xnd</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Na-Dene languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>yao</iso-639-2_5>
+    <iso-639-3>yao</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Yao</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>yap</iso-639-2_5>
+    <iso-639-3>yap</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Yapese</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>yid</iso-639-2_5>
+    <iso-639-3>yid</iso-639-3>
+    <iso-639-1>yi</iso-639-1>
+    <name language="en">Yiddish</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>yor</iso-639-2_5>
+    <iso-639-3>yor</iso-639-3>
+    <iso-639-1>yo</iso-639-1>
+    <name language="en">Yoruba</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>ypk</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Yupik languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>zap</iso-639-2_5>
+    <iso-639-3>zap</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Zapotec</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>zbl</iso-639-2_5>
+    <iso-639-3>zbl</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Blissymbols</name>
+    <scope>Individual</scope>
+    <type>Constructed</type>
+  </language>
+  <language>
+    <iso-639-2_5>zen</iso-639-2_5>
+    <iso-639-3>zen</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Zenaga</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>zha</iso-639-2_5>
+    <iso-639-3>zha</iso-639-3>
+    <iso-639-1>za</iso-639-1>
+    <name language="en">Zhuang</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>zho / chi*</iso-639-2_5>
+    <iso-639-3>zho</iso-639-3>
+    <iso-639-1>zh</iso-639-1>
+    <name language="en">Chinese</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>zhx</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Chinese (family)</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>zle</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">East Slavic languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>zls</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">South Slavic languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>zlw</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">West Slavic languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>znd</iso-639-2_5>
+    <iso-639-3/>
+    <iso-639-1/>
+    <name language="en">Zande languages</name>
+    <scope>Collective</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>zul</iso-639-2_5>
+    <iso-639-3>zul</iso-639-3>
+    <iso-639-1>zu</iso-639-1>
+    <name language="en">Zulu</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>zun</iso-639-2_5>
+    <iso-639-3>zun</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Zuni</name>
+    <scope>Individual</scope>
+    <type>Living</type>
+  </language>
+  <language>
+    <iso-639-2_5>zxx</iso-639-2_5>
+    <iso-639-3>zxx</iso-639-3>
+    <iso-639-1/>
+    <name language="en">No linguistic content</name>
+    <scope>Special</scope>
+    <type/>
+  </language>
+  <language>
+    <iso-639-2_5>zza</iso-639-2_5>
+    <iso-639-3>zza</iso-639-3>
+    <iso-639-1/>
+    <name language="en">Zaza</name>
+    <scope>Macrolanguage</scope>
+    <type>Living</type>
+  </language>
+</languages>
